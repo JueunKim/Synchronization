@@ -1,0 +1,5192 @@
+(lp0
+(S'What? What did you..? What?'
+p1
+I3938
+I6236
+tp2
+a(S'I still love you.'
+p3
+I8242
+I9937
+tp4
+a(S"I know I shouldn't even be here telling you this."
+p5
+I10144
+I13602
+tp6
+a(S"You're with Chandler, who I like."
+p7
+I13814
+I16214
+tp8
+a(S"If you say he's straight, I'll believe you."
+p9
+I16417
+I19147
+tp10
+a(S"After seeing you, I knew if I didn't tell you I'd regret it."
+p11
+I20154
+I24386
+tp12
+a(S'Letting you go was the stupidest thing I ever did.'
+p13
+I24592
+I28119
+tp14
+a(S"You're really not supposed to be back here."
+p15
+I28729
+I31755
+tp16
+a(S"I'm sorry. I know this is the wrong time and the wrong place..."
+p17
+I32033
+I36663
+tp18
+a(S'but I had to tell you.'
+p19
+I36871
+I38896
+tp20
+a(S'I wanna spend my life with you. I wanna marry you.'
+p21
+I39240
+I42767
+tp22
+a(S'I wanna have kids with you.'
+p23
+I43811
+I46041
+tp24
+a(S"Oh, my God. Why don't they put chairs back here?"
+p25
+I48482
+I51918
+tp26
+a(S'Look, I know this is crazy, but am I too late?'
+p27
+I53087
+I56545
+tp28
+a(S"You're too late. Where was all this three years ago?"
+p29
+I56958
+I60553
+tp30
+a(S'I know. I was an idiot.'
+p31
+I60728
+I63162
+tp32
+a(S'I tried to forget you. I really did.'
+p33
+I63364
+I65832
+tp34
+a(S'After our last lunch, I spent six months in Africa trying to forget.'
+p35
+I66033
+I70732
+tp36
+a(S'-What did you do there?'
+p37
+I71138
+I74403
+tp38
+a(S'Work with blind kids.'
+p39
+I71138
+I74403
+tp40
+a(S'What are you doing to me?'
+p41
+I74608
+I77099
+tp42
+a(S'Look, I...'
+p43
+I77611
+I79135
+tp44
+a(S"I'm sorry, but this is not gonna happen."
+p45
+I79480
+I82608
+tp46
+a(S"That's fine. I'll walk away. I'll never bother you again."
+p47
+I83317
+I87219
+tp48
+a(S"Only if you say Chandler's willing to give you everything I am."
+p49
+I87421
+I91824
+tp50
+a(S'Well, he is. I mean...'
+p51
+I92025
+I94425
+tp52
+a(S'marriage is all he talks about. My goodness!'
+p53
+I94661
+I98153
+tp54
+a(S"In fact, I'm the one making him wait."
+p55
+I98365
+I101198
+tp56
+a(S'You are? Why?'
+p57
+I101468
+I103197
+tp58
+a(S'Why?'
+p59
+I103403
+I104802
+tp60
+a(S'Because of the government.'
+p61
+I105772
+I107740
+tp62
+a(S"Isn't it incredible?"
+p63
+I148645
+I151170
+tp64
+a(S'Monica and Chandler are getting married.'
+p65
+I151381
+I154407
+tp66
+a(S"I know. They'll be so happy together."
+p67
+I154618
+I157610
+tp68
+a(S'How often do two best friends fall in love?'
+p69
+I157888
+I160789
+tp70
+a(S'-Not that often.'
+p71
+I160991
+I163050
+tp72
+a(S'No.'
+p73
+I160991
+I163050
+tp74
+a(S"-I'm so happy for them."
+p75
+I163927
+I168193
+tp76
+a(S'Me too. So happy for them.'
+p77
+I163927
+I168193
+tp78
+a(S"I'm so happy and not at all jealous."
+p79
+I168798
+I171289
+tp80
+a(S'Oh, no! God, definitely not jealous.'
+p81
+I171835
+I175566
+tp82
+a(S"I'm probably 98% happy and maybe 2% jealous."
+p83
+I180310
+I184508
+tp84
+a(S"-I mean, what's 2%? That's nothing."
+p85
+I184714
+I187979
+tp86
+a(S'Totally.'
+p87
+I184714
+I187979
+tp88
+a(S"-I'm like 90/10."
+p89
+I190687
+I193121
+tp90
+a(S'Yeah. Me too.'
+p91
+I190687
+I193121
+tp92
+a(S'Have you guys seen Chandler?'
+p93
+I198497
+I200624
+tp94
+a(S'No. But you know who was looking for you?'
+p95
+I203468
+I206369
+tp96
+a(S'Tennille.'
+p97
+I206572
+I208199
+tp98
+a(S"The marriage stuff you were saying yesterday? You don't believe that."
+p99
+I216848
+I221342
+tp100
+a(S'Sure, I do. In fact, I think the concept of marriage is unnatural.'
+p101
+I221520
+I226856
+tp102
+a(S"Look at pigs. Let's take a second here and look at pigs."
+p103
+I227059
+I231120
+tp104
+a(S"Pigs don't mate for life."
+p105
+I231330
+I233127
+tp106
+a(S'A pig can have 100 sexual partners in a lifetime.'
+p107
+I233332
+I236961
+tp108
+a(S"That's an ordinary pig, not even a pig that's good at sports."
+p109
+I237169
+I241000
+tp110
+a(S'Are you telling me you may never want to get married?'
+p111
+I243422
+I247188
+tp112
+a(S'Never say never, but, probably...'
+p113
+I247596
+I250224
+tp114
+a(S'yeah, never.'
+p115
+I250432
+I251729
+tp116
+a(S'Oh, my God. Then what are we even doing? What is this?'
+p117
+I252868
+I257066
+tp118
+a(S'Whoa, whoa, whoa! What is all this pressure?'
+p119
+I257272
+I260708
+tp120
+a(S'Is this some new strategy?'
+p121
+I261176
+I263076
+tp122
+a(S"Why don't you put down your copy of The Rules, huh, mantrap?"
+p123
+I263278
+I267476
+tp124
+a(S'You know what? I gotta go.'
+p125
+I268484
+I270509
+tp126
+a(S"It's okay. I got a plan."
+p127
+I272788
+I275279
+tp128
+a(S"-We're gonna find love."
+p129
+I280963
+I283591
+tp130
+a(S'Definitely.'
+p131
+I280963
+I283591
+tp132
+a(S"Yeah, I'm pretty confident about that."
+p133
+I285100
+I287762
+tp134
+a(S"That's what makes it so easy to be 80% happy for Monica and Chandler."
+p135
+I288203
+I292799
+tp136
+a(S'-A guarantee would be nice.'
+p137
+I293709
+I296735
+tp138
+a(S'What do you mean?'
+p139
+I293709
+I296735
+tp140
+a(S'Some friends make a deal.'
+p141
+I296912
+I299403
+tp142
+a(S'Like if neither of them are married by 40, they marry each other.'
+p143
+I299615
+I304143
+tp144
+a(S'-A backup?'
+p145
+I304353
+I306048
+tp146
+a(S'Exactly.'
+p147
+I304353
+I306048
+tp148
+a(S"Yeah, I've got that."
+p149
+I306255
+I307984
+tp150
+a(S'You do?'
+p151
+I309491
+I310958
+tp152
+a(S'-Who?'
+p153
+I311160
+I312457
+tp154
+a(S'Joey.'
+p155
+I311160
+I312457
+tp156
+a(S'-Joey? Are you serious?'
+p157
+I312628
+I317463
+tp158
+a(S'I locked him in years ago.'
+p159
+I312628
+I317463
+tp160
+a(S"Wait. So if neither of you are married by 40, you'll marry Joey?"
+p161
+I320703
+I325731
+tp162
+a(S'Yep. We shook on it.'
+p163
+I325941
+I327875
+tp164
+a(S'But believe me, that is not how he wanted to seal the deal.'
+p165
+I328243
+I332339
+tp166
+a(S'Oh, seriously?'
+p167
+I333449
+I335041
+tp168
+a(S'I think his exact words were..'
+p169
+I335250
+I337548
+tp170
+a(S'Charming.'
+p171
+I340255
+I341244
+tp172
+a(S"He's just a backup."
+p173
+I342124
+I344092
+tp174
+a(S'-Hey, Monica.'
+p175
+I352334
+I356031
+tp176
+a(S'Have you seen Rachel? Or a mirror?'
+p177
+I352334
+I356031
+tp178
+a(S"-It's for my boat. Pretty cool, huh?"
+p179
+I357506
+I361340
+tp180
+a(S"Yeah, it's great."
+p181
+I357506
+I361340
+tp182
+a(S"What's wrong? Talk to the captain."
+p183
+I361543
+I364068
+tp184
+a(S"Just realizing I'm in a dead-end relationship."
+p185
+I366048
+I369484
+tp186
+a(S'-Chandler being difficult?'
+p187
+I369685
+I373587
+tp188
+a(S"I don't want marriage tomorrow."
+p189
+I369685
+I373587
+tp190
+a(S"But I wanna know we're going somewhere, that I'm not wasting time."
+p191
+I373789
+I378249
+tp192
+a(S'-You know Chandler.'
+p193
+I378427
+I381487
+tp194
+a(S"No, I don't know Chandler."
+p195
+I378427
+I381487
+tp196
+a(S"Not anymore. It's like something's changed."
+p197
+I381697
+I385929
+tp198
+a(S'-Maybe you changed.'
+p199
+I386301
+I389668
+tp200
+a(S"I didn't change."
+p201
+I386301
+I389668
+tp202
+a(S"Maybe that's the problem."
+p203
+I390105
+I391834
+tp204
+a(S'-What?'
+p205
+I393542
+I396409
+tp206
+a(S'Chandler is a complex fellow.'
+p207
+I393542
+I396409
+tp208
+a(S'One who is unlikely to take a wife.'
+p209
+I396612
+I399308
+tp210
+a(S"Does he think I'll wait around for nothing?"
+p211
+I402792
+I405955
+tp212
+a(S'Face it. Chandler is against marriage.'
+p213
+I406162
+I409325
+tp214
+a(S'And always will be.'
+p215
+I409532
+I411397
+tp216
+a(S"There's some people who do wanna marry me."
+p217
+I412635
+I415536
+tp218
+a(S'-There are?'
+p219
+I415738
+I418036
+tp220
+a(S'Yeah. Richard.'
+p221
+I415738
+I418036
+tp222
+a(S'Richard said he wants to marry you?'
+p223
+I418541
+I421408
+tp224
+a(S'-And Chandler says he hates marriage?'
+p225
+I422111
+I425911
+tp226
+a(S"That's right."
+p227
+I422111
+I425911
+tp228
+a(S'Chandler loves marriage!'
+p229
+I426115
+I427980
+tp230
+a(S'You just said he hates marriage!'
+p231
+I430153
+I432383
+tp232
+a(S'"He\'s a complex fellow who\'s unlikely to take a wife"!'
+p233
+I432588
+I436149
+tp234
+a(S'"He\'s against marriage and always will be"!'
+p235
+I436359
+I438000
+tp236
+a(S'You got that from what I said?'
+p237
+I439022
+I441000
+tp238
+a(S'-Rach.'
+p239
+I448584
+I451018
+tp240
+a(S'Hey, you.'
+p241
+I448584
+I451018
+tp242
+a(S'-Come on in.'
+p243
+I452655
+I454282
+tp244
+a(S'Thank you.'
+p245
+I452655
+I454282
+tp246
+a(S"I'm so sorry to hear about you and Elizabeth."
+p247
+I454257
+I457317
+tp248
+a(S"Thanks. I really thought we'd be able to make it work."
+p249
+I457527
+I461623
+tp250
+a(S"I guess it wasn't meant to be."
+p251
+I461831
+I463992
+tp252
+a(S"Yeah. Love. It's a tricky business, isn't it?"
+p253
+I464200
+I468603
+tp254
+a(S'-I guess so.'
+p255
+I470006
+I473669
+tp256
+a(S'So, what do you say we make a pact?'
+p257
+I470006
+I473669
+tp258
+a(S'If you and I are both single by 40, we get married.'
+p259
+I473877
+I477335
+tp260
+a(S'I mean, we know each other, we like each other...'
+p261
+I477547
+I480744
+tp262
+a(S"we've already slept together, so there'll be no surprises."
+p263
+I480950
+I484977
+tp264
+a(S'No, like, "What\'s that?"'
+p265
+I485188
+I486917
+tp266
+a(S'-Oh, you want me to be your backup.'
+p267
+I490360
+I494490
+tp268
+a(S'Exactly.'
+p269
+I490360
+I494490
+tp270
+a(S'Yeah. I already have one.'
+p271
+I494697
+I496824
+tp272
+a(S'-What? Who?'
+p273
+I498167
+I499657
+tp274
+a(S'Phoebe.'
+p275
+I498167
+I499657
+tp276
+a(S'Phoebe?'
+p277
+I499869
+I501393
+tp278
+a(S'But she just said Joey is her backup.'
+p279
+I501905
+I504772
+tp280
+a(S"Oh, I don't think so."
+p281
+I504974
+I507135
+tp282
+a(S'I just had a conversation with her, and she said that she and Joey made a deal.'
+p283
+I507844
+I511837
+tp284
+a(S"That's impossible. We have had a deal for years. We shook on it."
+p285
+I512048
+I516485
+tp286
+a(S'Although, believe me, she wanted to do a lot more than that.'
+p287
+I516686
+I520884
+tp288
+a(S'Where the hell have you been?!'
+p289
+I524036
+I526334
+tp290
+a(S'I was making a coconut phone with the Professor.'
+p291
+I526538
+I530167
+tp292
+a(S'Richard told Monica he wants to marry her.'
+p293
+I531310
+I534507
+tp294
+a(S'-What?'
+p295
+I534680
+I538309
+tp296
+a(S"I've been trying to find you."
+p297
+I534680
+I538309
+tp298
+a(S"And I would have if these damn boat shoes wouldn't keep flying off!"
+p299
+I538517
+I543079
+tp300
+a(S'-Oh, my God!'
+p301
+I543288
+I545779
+tp302
+a(S'I know! They suck!'
+p303
+I543288
+I545779
+tp304
+a(S"He's not supposed to ask her to marry him! I am!"
+p305
+I545991
+I549256
+tp306
+a(S'-I know!'
+p307
+I549461
+I550758
+tp308
+a(S'What..?'
+p309
+I549461
+I550758
+tp310
+a(S"You know what I'll do? I'll go over there and kick his ass!"
+p311
+I550963
+I555059
+tp312
+a(S'Will you help me?'
+p313
+I555267
+I556632
+tp314
+a(S"Look, I don't think us getting our asses kicked is a solution, okay?"
+p315
+I558370
+I563535
+tp316
+a(S'-Look, just go and find Monica.'
+p317
+I563742
+I567178
+tp318
+a(S"You're right."
+p319
+I563742
+I567178
+tp320
+a(S"Okay. I'm gonna get the ring..."
+p321
+I567379
+I569745
+tp322
+a(S"I'm gonna go find her and I'm gonna propose!"
+p323
+I569948
+I573042
+tp324
+a(S'Dude! Dude! Dude!'
+p325
+I574519
+I576043
+tp326
+a(S'That coconut phone might be good for the boat.'
+p327
+I576221
+I579588
+tp328
+a(S'Hi.'
+p329
+I594172
+I599273
+tp330
+a(S"I don't know why I'm here."
+p331
+I602947
+I604812
+tp332
+a(S"I didn't ask."
+p333
+I605449
+I607041
+tp334
+a(S'-You wanna come in?'
+p335
+I609453
+I612718
+tp336
+a(S"I don't know."
+p337
+I609453
+I612718
+tp338
+a(S'Oh, okay.'
+p339
+I613491
+I615220
+tp340
+a(S"I'll just leave the door open and sit on the couch."
+p341
+I615860
+I619523
+tp342
+a(S'-Chandler is such an idiot!'
+p343
+I621499
+I624866
+tp344
+a(S'Drink?'
+p345
+I621499
+I624866
+tp346
+a(S'-Scotch on the..'
+p347
+I626137
+I629163
+tp348
+a(S'Rocks with a twist?'
+p349
+I626137
+I629163
+tp350
+a(S'I remember.'
+p351
+I629373
+I630897
+tp352
+a(S'You still smoking cigars?'
+p353
+I633744
+I635871
+tp354
+a(S"No, no. That's art."
+p355
+I636747
+I639215
+tp356
+a(S'If it bothers you, I can put my art out.'
+p357
+I640918
+I643944
+tp358
+a(S"No, that's okay."
+p359
+I644688
+I646656
+tp360
+a(S'So, Monica, let me ask you a question.'
+p361
+I649026
+I652655
+tp362
+a(S'Since we broke up, do you ever...'
+p363
+I652863
+I655798
+tp364
+a(S'think about me?'
+p365
+I656000
+I657627
+tp366
+a(S'Actually, I thought about you a few months ago.'
+p367
+I658402
+I661462
+tp368
+a(S'-Really?'
+p369
+I661639
+I663607
+tp370
+a(S"But it's because..."
+p371
+I661639
+I663607
+tp372
+a(S"I had an eye exam, and I don't like my new eye doctor."
+p373
+I663808
+I667539
+tp374
+a(S'-Who is it?'
+p375
+I668679
+I670306
+tp376
+a(S'Edward Nevsky.'
+p377
+I668679
+I670306
+tp378
+a(S"He's no good."
+p379
+I670648
+I671945
+tp380
+a(S'Do you ever think about me...'
+p381
+I674018
+I677181
+tp382
+a(S'-in a non-eye-doctor way?'
+p383
+I678022
+I681116
+tp384
+a(S'No.'
+p385
+I678022
+I681116
+tp386
+a(S"Because getting over you was the hardest thing I've ever done."
+p387
+I685429
+I689661
+tp388
+a(S'I never let myself think about you.'
+p389
+I690134
+I693001
+tp390
+a(S'Wow.'
+p391
+I693537
+I695095
+tp392
+a(S'Phoebe, you picked Joey and Ross?'
+p393
+I700077
+I703012
+tp394
+a(S"-You can't have two backups!"
+p395
+I703214
+I707048
+tp396
+a(S'Of course I can.'
+p397
+I703214
+I707048
+tp398
+a(S"It's good sense to back up your backup."
+p399
+I707251
+I710118
+tp400
+a(S"-Look, I've already lost Chandler."
+p401
+I710321
+I712949
+tp402
+a(S'What?'
+p403
+I710321
+I712949
+tp404
+a(S"Hey, Phoebe! We're both your backup?"
+p405
+I713858
+I716622
+tp406
+a(S'How could you do this to me?'
+p407
+I716827
+I719523
+tp408
+a(S'Why are you complaining? You were both aware of the situation.'
+p409
+I720030
+I724433
+tp410
+a(S'-I was not!'
+p411
+I724602
+I726536
+tp412
+a(S"No, we weren't!"
+p413
+I724602
+I726536
+tp414
+a(S"This kind of backtalk won't fly when we're married."
+p415
+I726737
+I730366
+tp416
+a(S"You can't have both. Pick one."
+p417
+I731208
+I733574
+tp418
+a(S'-Pick me!'
+p419
+I733777
+I735301
+tp420
+a(S'No, pick me!'
+p421
+I733777
+I735301
+tp422
+a(S"-I don't wanna end up an old maid."
+p423
+I735513
+I740473
+tp424
+a(S"All right. Well, let's see."
+p425
+I735513
+I740473
+tp426
+a(S'Ross is a good father.'
+p427
+I740684
+I743016
+tp428
+a(S'But...'
+p429
+I743454
+I744546
+tp430
+a(S'Joey has a boat. This is hard.'
+p431
+I744755
+I747087
+tp432
+a(S'This is crazy. I wanna switch to Rachel.'
+p433
+I747291
+I750021
+tp434
+a(S'-I wanna switch to Rachel too.'
+p435
+I750294
+I753889
+tp436
+a(S'No, wait. Just wait.'
+p437
+I750294
+I753889
+tp438
+a(S"Wait, guys. Don't make any rash decisions."
+p439
+I754064
+I757227
+tp440
+a(S'Just remember my promise:'
+p441
+I757434
+I759425
+tp442
+a(S'If we get married, three times a week.'
+p443
+I759637
+I762663
+tp444
+a(S'Oh, my God. Phoebe...'
+p445
+I762873
+I764431
+tp446
+a(S"I'm talking about massages."
+p447
+I764642
+I767076
+tp448
+a(S"No, I'm not."
+p449
+I767311
+I769438
+tp450
+a(S"I know how to settle it. We'll do this."
+p451
+I772550
+I775519
+tp452
+a(S'I\'m gonna write "Joey" on one napkin...'
+p453
+I775719
+I779211
+tp454
+a(S'and "Ross" on the other napkin and we\'re gonna pick one.'
+p455
+I779423
+I784224
+tp456
+a(S'That person will be our backup. Okay?'
+p457
+I784428
+I787226
+tp458
+a(S'-Sounds fair.'
+p459
+I787431
+I789023
+tp460
+a(S'All right.'
+p461
+I787431
+I789023
+tp462
+a(S'Good. Switching them up.'
+p463
+I789233
+I791531
+tp464
+a(S'-Pick one.'
+p465
+I795005
+I796870
+tp466
+a(S'Left.'
+p467
+I795005
+I796870
+tp468
+a(S'-Thank you.'
+p469
+I797708
+I799835
+tp470
+a(S"You're welcome."
+p471
+I797708
+I799835
+tp472
+a(S'-Ross.'
+p473
+I802046
+I804514
+tp474
+a(S'Joey.'
+p475
+I802046
+I804514
+tp476
+a(S'-We should switch.'
+p477
+I806550
+I808814
+tp478
+a(S'Absolutely.'
+p479
+I806550
+I808814
+tp480
+a(S"I missed this apartment. Now, this is a grownup's apartment."
+p481
+I812637
+I817074
+tp482
+a(S'I should be with a grownup, you know?'
+p483
+I817275
+I819766
+tp484
+a(S"You're saying you need to be with someone more mature."
+p485
+I820112
+I824276
+tp486
+a(S'Maybe someone with...'
+p487
+I824950
+I827077
+tp488
+a(S'a license to practice medicine.'
+p489
+I827486
+I830114
+tp490
+a(S'Or a mustache.'
+p491
+I830455
+I832218
+tp492
+a(S"Let's face it. I'm not a kid anymore."
+p493
+I833525
+I836187
+tp494
+a(S'I need someone who wants the same things.'
+p495
+I836394
+I839329
+tp496
+a(S'Coming to my work and telling me you love me, I want that!'
+p497
+I839531
+I843991
+tp498
+a(S"Talking about pig sex over lunch, I don't want that!"
+p499
+I844536
+I848336
+tp500
+a(S"I think that's fair."
+p501
+I849574
+I851201
+tp502
+a(S"Please, don't even talk to me about fair."
+p503
+I851409
+I854344
+tp504
+a(S"Fair would've been you wanting to marry me then."
+p505
+I854546
+I857913
+tp506
+a(S'Or Chandler wanting to marry me now.'
+p507
+I858116
+I860584
+tp508
+a(S'Believe me, nothing about this is fair. Nothing.'
+p509
+I860786
+I863949
+tp510
+a(S'-Nothing! Nothing!'
+p511
+I864122
+I866852
+tp512
+a(S"It's okay."
+p513
+I864122
+I866852
+tp514
+a(S'Nothing.'
+p515
+I871329
+I872728
+tp516
+a(S"I don't know."
+p517
+I877669
+I880697
+tp518
+a(S'I know.'
+p519
+I882474
+I883805
+tp520
+a(S'I have to figure some..'
+p521
+I887345
+I889711
+tp522
+a(S'Some stuff, before I can...'
+p523
+I889915
+I892577
+tp524
+a(S'I understand.'
+p525
+I892851
+I894318
+tp526
+a(S'Take as much time as you want.'
+p527
+I895520
+I897852
+tp528
+a(S'Ten, even 20 minutes, if you need it.'
+p529
+I898590
+I901388
+tp530
+a(S"I'll be here. Not smoking."
+p531
+I902327
+I905091
+tp532
+a(S'Where is she?'
+p533
+I921880
+I923370
+tp534
+a(S"I'm not scared of you."
+p535
+I923615
+I925583
+tp536
+a(S"She's not here. And please come in."
+p537
+I927352
+I930082
+tp538
+a(S'Scotch on the rocks...'
+p539
+I931356
+I932789
+tp540
+a(S'with a twist, on a coaster.'
+p541
+I932991
+I935459
+tp542
+a(S'Monica?'
+p543
+I935660
+I937218
+tp544
+a(S'Okay, she was here. But she left.'
+p545
+I938997
+I941431
+tp546
+a(S'Where did she go?'
+p547
+I941600
+I942999
+tp548
+a(S'She said she had to think things over.'
+p549
+I943201
+I945829
+tp550
+a(S"Oh, my God. I can't believe this. I thought you were a good guy."
+p551
+I946037
+I950440
+tp552
+a(S'Look, nothing happened.'
+p553
+I950642
+I952405
+tp554
+a(S"Nothing? So you didn't tell my girlfriend you love her?"
+p555
+I952611
+I956604
+tp556
+a(S'Well, all right, one thing happened.'
+p557
+I956948
+I959576
+tp558
+a(S'You know what you did? My girlfriend is thinking things over.'
+p559
+I959951
+I964251
+tp560
+a(S'You made my girlfriend think!'
+p561
+I964456
+I967050
+tp562
+a(S"Well, I'm sorry."
+p563
+I968126
+I969889
+tp564
+a(S"-What's to think about? I love her."
+p565
+I971062
+I973895
+tp566
+a(S'Well...'
+p567
+I971062
+I973895
+tp568
+a(S"I'm willing to offer her things that you aren't."
+p569
+I974099
+I977398
+tp570
+a(S"I'm willing to offer her those things. I had a plan..."
+p571
+I977602
+I981094
+tp572
+a(S"to throw her off so when I offered all these things, she'd be surprised."
+p573
+I981306
+I986642
+tp574
+a(S'If it helps, it worked very well.'
+p575
+I986945
+I990005
+tp576
+a(S'It was working till you showed up, you big tree.'
+p577
+I990849
+I994250
+tp578
+a(S"This isn't fair."
+p579
+I996721
+I998655
+tp580
+a(S'You had your chance with her, and you blew it!'
+p581
+I998857
+I1002190
+tp582
+a(S"This is my chance. I won't blow it, because we are meant for each other."
+p583
+I1002394
+I1007331
+tp584
+a(S'And this has all just been one stupid mistake!'
+p585
+I1007532
+I1010831
+tp586
+a(S'I was gonna propose tonight.'
+p587
+I1011403
+I1013701
+tp588
+a(S'-You were gonna propose?'
+p589
+I1016641
+I1020270
+tp590
+a(S'Yeah, I even...'
+p591
+I1016641
+I1020270
+tp592
+a(S'got a ring. Did you get a ring?'
+p593
+I1021346
+I1024611
+tp594
+a(S"No, I don't have a ring."
+p595
+I1024816
+I1026477
+tp596
+a(S'You go get her, Chandler.'
+p597
+I1032190
+I1034215
+tp598
+a(S'And can I give you a piece of advice?'
+p599
+I1036828
+I1039388
+tp600
+a(S'If you do get her...'
+p601
+I1039597
+I1041462
+tp602
+a(S"don't let her go."
+p603
+I1042534
+I1044195
+tp604
+a(S'Trust me.'
+p605
+I1044369
+I1045836
+tp606
+a(S'You know, Richard, you are a good guy.'
+p607
+I1048773
+I1052265
+tp608
+a(S'I know.'
+p609
+I1054612
+I1055772
+tp610
+a(S'I hate that.'
+p611
+I1057048
+I1058572
+tp612
+a(S"-I've gotta find Monica."
+p613
+I1073064
+I1075658
+tp614
+a(S"She's gone."
+p615
+I1073064
+I1075658
+tp616
+a(S'-What?'
+p617
+I1076034
+I1079470
+tp618
+a(S'She had a bag and she left.'
+p619
+I1076034
+I1079470
+tp620
+a(S'-What?'
+p621
+I1079671
+I1081639
+tp622
+a(S'She was all crying...'
+p623
+I1079671
+I1081639
+tp624
+a(S'She said you guys want different things, and that and that she needed time to think."'
+p625
+I1081840
+I1085173
+tp626
+a(S"-Why didn't you just tell her it was a plan?"
+p627
+I1085377
+I1089609
+tp628
+a(S'I told her everything.'
+p629
+I1085377
+I1089609
+tp630
+a(S"-But she wouldn't believe me."
+p631
+I1089814
+I1094080
+tp632
+a(S'Well, where..? Where did she go?'
+p633
+I1089814
+I1094080
+tp634
+a(S"To her parents'. She said you shouldn't call. But if I were you, I would."
+p635
+I1094285
+I1099655
+tp636
+a(S"-I can't believe I ruined this."
+p637
+I1100191
+I1104423
+tp638
+a(S'I am so sorry, man.'
+p639
+I1100191
+I1104423
+tp640
+a(S'You wanted it to be a surprise.'
+p641
+I1115607
+I1118132
+tp642
+a(S'Oh, my God.'
+p643
+I1128053
+I1129543
+tp644
+a(S'Chandler...'
+p645
+I1136094
+I1137584
+tp646
+a(S'in all my life...'
+p647
+I1138930
+I1140898
+tp648
+a(S'I never thought I would be so lucky...'
+p649
+I1141633
+I1144295
+tp650
+a(S'as to fall in love with my best...'
+p651
+I1147872
+I1151467
+tp652
+a(S'My best...'
+p653
+I1152877
+I1154469
+tp654
+a(S"There's a reason why girls don't do this!"
+p655
+I1155547
+I1158482
+tp656
+a(S"I'll do it. I thought..."
+p657
+I1159417
+I1161977
+tp658
+a(S'Wait, I can do this.'
+p659
+I1166424
+I1168051
+tp660
+a(S'I thought that it mattered...'
+p661
+I1171996
+I1175022
+tp662
+a(S'what I said or where I said it.'
+p663
+I1175233
+I1178828
+tp664
+a(S'Then I realized...'
+p665
+I1179537
+I1181562
+tp666
+a(S'the only thing that matters is that you...'
+p667
+I1181906
+I1184807
+tp668
+a(S'You make me happier than I ever thought I could be.'
+p669
+I1188713
+I1193082
+tp670
+a(S'And if you let me...'
+p671
+I1196221
+I1198121
+tp672
+a(S"I'll spend all my life trying to make you feel the same way."
+p673
+I1198723
+I1203092
+tp674
+a(S'Monica...'
+p675
+I1212003
+I1213402
+tp676
+a(S'will you marry me?'
+p677
+I1215440
+I1216907
+tp678
+a(S'Yes.'
+p679
+I1219144
+I1220668
+tp680
+a(S'I knew you were likely to take a wife!'
+p681
+I1234626
+I1237857
+tp682
+a(S"Can we come in yet? We're dying out here!"
+p683
+I1239864
+I1243027
+tp684
+a(S'Come in! Come in!'
+p685
+I1243635
+I1245159
+tp686
+a(S"We're engaged!"
+p687
+I1247272
+I1249103
+tp688
+a(S"This is the least jealous I've ever been."
+p689
+I1255780
+I1258715
+tp690
+a(S"Oh, no, wait! This is wrong! Ross isn't here!"
+p691
+I1259350
+I1262581
+tp692
+a(S"Hell, he's done it three times. He knows what it's about!"
+p693
+I1264589
+I1268650
+tp694
+a(S'What? What did you..? What?I still love you.'
+p695
+I3938
+I9937
+tp696
+a(S"I still love you.I know I shouldn't even be here telling you this."
+p697
+I8242
+I13602
+tp698
+a(S"I know I shouldn't even be here telling you this.You're with Chandler, who I like."
+p699
+I10144
+I16214
+tp700
+a(S"You're with Chandler, who I like.If you say he's straight, I'll believe you."
+p701
+I13814
+I19147
+tp702
+a(S"If you say he's straight, I'll believe you.After seeing you, I knew if I didn't tell you I'd regret it."
+p703
+I16417
+I24386
+tp704
+a(S"After seeing you, I knew if I didn't tell you I'd regret it.Letting you go was the stupidest thing I ever did."
+p705
+I20154
+I28119
+tp706
+a(S"Letting you go was the stupidest thing I ever did.You're really not supposed to be back here."
+p707
+I24592
+I31755
+tp708
+a(S"You're really not supposed to be back here.I'm sorry. I know this is the wrong time and the wrong place..."
+p709
+I28729
+I36663
+tp710
+a(S"I'm sorry. I know this is the wrong time and the wrong place...but I had to tell you."
+p711
+I32033
+I38896
+tp712
+a(S'but I had to tell you.I wanna spend my life with you. I wanna marry you.'
+p713
+I36871
+I42767
+tp714
+a(S'I wanna spend my life with you. I wanna marry you.I wanna have kids with you.'
+p715
+I39240
+I46041
+tp716
+a(S"I wanna have kids with you.Oh, my God. Why don't they put chairs back here?"
+p717
+I43811
+I51918
+tp718
+a(S"Oh, my God. Why don't they put chairs back here?Look, I know this is crazy, but am I too late?"
+p719
+I48482
+I56545
+tp720
+a(S"Look, I know this is crazy, but am I too late?You're too late. Where was all this three years ago?"
+p721
+I53087
+I60553
+tp722
+a(S"You're too late. Where was all this three years ago?I know. I was an idiot."
+p723
+I56958
+I63162
+tp724
+a(S'I know. I was an idiot.I tried to forget you. I really did.'
+p725
+I60728
+I65832
+tp726
+a(S'I tried to forget you. I really did.After our last lunch, I spent six months in Africa trying to forget.'
+p727
+I63364
+I70732
+tp728
+a(S'After our last lunch, I spent six months in Africa trying to forget.-What did you do there?'
+p729
+I66033
+I74403
+tp730
+a(S'-What did you do there?Work with blind kids.'
+p731
+I71138
+I74403
+tp732
+a(S'Work with blind kids.What are you doing to me?'
+p733
+I71138
+I77099
+tp734
+a(S'What are you doing to me?Look, I...'
+p735
+I74608
+I79135
+tp736
+a(S"Look, I...I'm sorry, but this is not gonna happen."
+p737
+I77611
+I82608
+tp738
+a(S"I'm sorry, but this is not gonna happen.That's fine. I'll walk away. I'll never bother you again."
+p739
+I79480
+I87219
+tp740
+a(S"That's fine. I'll walk away. I'll never bother you again.Only if you say Chandler's willing to give you everything I am."
+p741
+I83317
+I91824
+tp742
+a(S"Only if you say Chandler's willing to give you everything I am.Well, he is. I mean..."
+p743
+I87421
+I94425
+tp744
+a(S'Well, he is. I mean...marriage is all he talks about. My goodness!'
+p745
+I92025
+I98153
+tp746
+a(S"marriage is all he talks about. My goodness!In fact, I'm the one making him wait."
+p747
+I94661
+I101198
+tp748
+a(S"In fact, I'm the one making him wait.You are? Why?"
+p749
+I98365
+I103197
+tp750
+a(S'You are? Why?Why?'
+p751
+I101468
+I104802
+tp752
+a(S'Why?Because of the government.'
+p753
+I103403
+I107740
+tp754
+a(S"Because of the government.Isn't it incredible?"
+p755
+I105772
+I151170
+tp756
+a(S"Isn't it incredible?Monica and Chandler are getting married."
+p757
+I148645
+I154407
+tp758
+a(S"Monica and Chandler are getting married.I know. They'll be so happy together."
+p759
+I151381
+I157610
+tp760
+a(S"I know. They'll be so happy together.How often do two best friends fall in love?"
+p761
+I154618
+I160789
+tp762
+a(S'How often do two best friends fall in love?-Not that often.'
+p763
+I157888
+I163050
+tp764
+a(S'-Not that often.No.'
+p765
+I160991
+I163050
+tp766
+a(S"No.-I'm so happy for them."
+p767
+I160991
+I168193
+tp768
+a(S"-I'm so happy for them.Me too. So happy for them."
+p769
+I163927
+I168193
+tp770
+a(S"Me too. So happy for them.I'm so happy and not at all jealous."
+p771
+I163927
+I171289
+tp772
+a(S"I'm so happy and not at all jealous.Oh, no! God, definitely not jealous."
+p773
+I168798
+I175566
+tp774
+a(S"Oh, no! God, definitely not jealous.I'm probably 98% happy and maybe 2% jealous."
+p775
+I171835
+I184508
+tp776
+a(S"I'm probably 98% happy and maybe 2% jealous.-I mean, what's 2%? That's nothing."
+p777
+I180310
+I187979
+tp778
+a(S"-I mean, what's 2%? That's nothing.Totally."
+p779
+I184714
+I187979
+tp780
+a(S"Totally.-I'm like 90/10."
+p781
+I184714
+I193121
+tp782
+a(S"-I'm like 90/10.Yeah. Me too."
+p783
+I190687
+I193121
+tp784
+a(S'Yeah. Me too.Have you guys seen Chandler?'
+p785
+I190687
+I200624
+tp786
+a(S'Have you guys seen Chandler?No. But you know who was looking for you?'
+p787
+I198497
+I206369
+tp788
+a(S'No. But you know who was looking for you?Tennille.'
+p789
+I203468
+I208199
+tp790
+a(S"Tennille.The marriage stuff you were saying yesterday? You don't believe that."
+p791
+I206572
+I221342
+tp792
+a(S"The marriage stuff you were saying yesterday? You don't believe that.Sure, I do. In fact, I think the concept of marriage is unnatural."
+p793
+I216848
+I226856
+tp794
+a(S"Sure, I do. In fact, I think the concept of marriage is unnatural.Look at pigs. Let's take a second here and look at pigs."
+p795
+I221520
+I231120
+tp796
+a(S"Look at pigs. Let's take a second here and look at pigs.Pigs don't mate for life."
+p797
+I227059
+I233127
+tp798
+a(S"Pigs don't mate for life.A pig can have 100 sexual partners in a lifetime."
+p799
+I231330
+I236961
+tp800
+a(S"A pig can have 100 sexual partners in a lifetime.That's an ordinary pig, not even a pig that's good at sports."
+p801
+I233332
+I241000
+tp802
+a(S"That's an ordinary pig, not even a pig that's good at sports.Are you telling me you may never want to get married?"
+p803
+I237169
+I247188
+tp804
+a(S'Are you telling me you may never want to get married?Never say never, but, probably...'
+p805
+I243422
+I250224
+tp806
+a(S'Never say never, but, probably...yeah, never.'
+p807
+I247596
+I251729
+tp808
+a(S'yeah, never.Oh, my God. Then what are we even doing? What is this?'
+p809
+I250432
+I257066
+tp810
+a(S'Oh, my God. Then what are we even doing? What is this?Whoa, whoa, whoa! What is all this pressure?'
+p811
+I252868
+I260708
+tp812
+a(S'Whoa, whoa, whoa! What is all this pressure?Is this some new strategy?'
+p813
+I257272
+I263076
+tp814
+a(S"Is this some new strategy?Why don't you put down your copy of The Rules, huh, mantrap?"
+p815
+I261176
+I267476
+tp816
+a(S"Why don't you put down your copy of The Rules, huh, mantrap?You know what? I gotta go."
+p817
+I263278
+I270509
+tp818
+a(S"You know what? I gotta go.It's okay. I got a plan."
+p819
+I268484
+I275279
+tp820
+a(S"It's okay. I got a plan.-We're gonna find love."
+p821
+I272788
+I283591
+tp822
+a(S"-We're gonna find love.Definitely."
+p823
+I280963
+I283591
+tp824
+a(S"Definitely.Yeah, I'm pretty confident about that."
+p825
+I280963
+I287762
+tp826
+a(S"Yeah, I'm pretty confident about that.That's what makes it so easy to be 80% happy for Monica and Chandler."
+p827
+I285100
+I292799
+tp828
+a(S"That's what makes it so easy to be 80% happy for Monica and Chandler.-A guarantee would be nice."
+p829
+I288203
+I296735
+tp830
+a(S'-A guarantee would be nice.What do you mean?'
+p831
+I293709
+I296735
+tp832
+a(S'What do you mean?Some friends make a deal.'
+p833
+I293709
+I299403
+tp834
+a(S'Some friends make a deal.Like if neither of them are married by 40, they marry each other.'
+p835
+I296912
+I304143
+tp836
+a(S'Like if neither of them are married by 40, they marry each other.-A backup?'
+p837
+I299615
+I306048
+tp838
+a(S'-A backup?Exactly.'
+p839
+I304353
+I306048
+tp840
+a(S"Exactly.Yeah, I've got that."
+p841
+I304353
+I307984
+tp842
+a(S"Yeah, I've got that.You do?"
+p843
+I306255
+I310958
+tp844
+a(S'You do?-Who?'
+p845
+I309491
+I312457
+tp846
+a(S'-Who?Joey.'
+p847
+I311160
+I312457
+tp848
+a(S'Joey.-Joey? Are you serious?'
+p849
+I311160
+I317463
+tp850
+a(S'-Joey? Are you serious?I locked him in years ago.'
+p851
+I312628
+I317463
+tp852
+a(S"I locked him in years ago.Wait. So if neither of you are married by 40, you'll marry Joey?"
+p853
+I312628
+I325731
+tp854
+a(S"Wait. So if neither of you are married by 40, you'll marry Joey?Yep. We shook on it."
+p855
+I320703
+I327875
+tp856
+a(S'Yep. We shook on it.But believe me, that is not how he wanted to seal the deal.'
+p857
+I325941
+I332339
+tp858
+a(S'But believe me, that is not how he wanted to seal the deal.Oh, seriously?'
+p859
+I328243
+I335041
+tp860
+a(S'Oh, seriously?I think his exact words were..'
+p861
+I333449
+I337548
+tp862
+a(S'I think his exact words were..Charming.'
+p863
+I335250
+I341244
+tp864
+a(S"Charming.He's just a backup."
+p865
+I340255
+I344092
+tp866
+a(S"He's just a backup.-Hey, Monica."
+p867
+I342124
+I356031
+tp868
+a(S'-Hey, Monica.Have you seen Rachel? Or a mirror?'
+p869
+I352334
+I356031
+tp870
+a(S"Have you seen Rachel? Or a mirror?-It's for my boat. Pretty cool, huh?"
+p871
+I352334
+I361340
+tp872
+a(S"-It's for my boat. Pretty cool, huh?Yeah, it's great."
+p873
+I357506
+I361340
+tp874
+a(S"Yeah, it's great.What's wrong? Talk to the captain."
+p875
+I357506
+I364068
+tp876
+a(S"What's wrong? Talk to the captain.Just realizing I'm in a dead-end relationship."
+p877
+I361543
+I369484
+tp878
+a(S"Just realizing I'm in a dead-end relationship.-Chandler being difficult?"
+p879
+I366048
+I373587
+tp880
+a(S"-Chandler being difficult?I don't want marriage tomorrow."
+p881
+I369685
+I373587
+tp882
+a(S"I don't want marriage tomorrow.But I wanna know we're going somewhere, that I'm not wasting time."
+p883
+I369685
+I378249
+tp884
+a(S"But I wanna know we're going somewhere, that I'm not wasting time.-You know Chandler."
+p885
+I373789
+I381487
+tp886
+a(S"-You know Chandler.No, I don't know Chandler."
+p887
+I378427
+I381487
+tp888
+a(S"No, I don't know Chandler.Not anymore. It's like something's changed."
+p889
+I378427
+I385929
+tp890
+a(S"Not anymore. It's like something's changed.-Maybe you changed."
+p891
+I381697
+I389668
+tp892
+a(S"-Maybe you changed.I didn't change."
+p893
+I386301
+I389668
+tp894
+a(S"I didn't change.Maybe that's the problem."
+p895
+I386301
+I391834
+tp896
+a(S"Maybe that's the problem.-What?"
+p897
+I390105
+I396409
+tp898
+a(S'-What?Chandler is a complex fellow.'
+p899
+I393542
+I396409
+tp900
+a(S'Chandler is a complex fellow.One who is unlikely to take a wife.'
+p901
+I393542
+I399308
+tp902
+a(S"One who is unlikely to take a wife.Does he think I'll wait around for nothing?"
+p903
+I396612
+I405955
+tp904
+a(S"Does he think I'll wait around for nothing?Face it. Chandler is against marriage."
+p905
+I402792
+I409325
+tp906
+a(S'Face it. Chandler is against marriage.And always will be.'
+p907
+I406162
+I411397
+tp908
+a(S"And always will be.There's some people who do wanna marry me."
+p909
+I409532
+I415536
+tp910
+a(S"There's some people who do wanna marry me.-There are?"
+p911
+I412635
+I418036
+tp912
+a(S'-There are?Yeah. Richard.'
+p913
+I415738
+I418036
+tp914
+a(S'Yeah. Richard.Richard said he wants to marry you?'
+p915
+I415738
+I421408
+tp916
+a(S'Richard said he wants to marry you?-And Chandler says he hates marriage?'
+p917
+I418541
+I425911
+tp918
+a(S"-And Chandler says he hates marriage?That's right."
+p919
+I422111
+I425911
+tp920
+a(S"That's right.Chandler loves marriage!"
+p921
+I422111
+I427980
+tp922
+a(S'Chandler loves marriage!You just said he hates marriage!'
+p923
+I426115
+I432383
+tp924
+a(S'You just said he hates marriage!"He\'s a complex fellow who\'s unlikely to take a wife"!'
+p925
+I430153
+I436149
+tp926
+a(S'"He\'s a complex fellow who\'s unlikely to take a wife"!"He\'s against marriage and always will be"!'
+p927
+I432588
+I438000
+tp928
+a(S'"He\'s against marriage and always will be"!You got that from what I said?'
+p929
+I436359
+I441000
+tp930
+a(S'You got that from what I said?-Rach.'
+p931
+I439022
+I451018
+tp932
+a(S'-Rach.Hey, you.'
+p933
+I448584
+I451018
+tp934
+a(S'Hey, you.-Come on in.'
+p935
+I448584
+I454282
+tp936
+a(S'-Come on in.Thank you.'
+p937
+I452655
+I454282
+tp938
+a(S"Thank you.I'm so sorry to hear about you and Elizabeth."
+p939
+I452655
+I457317
+tp940
+a(S"I'm so sorry to hear about you and Elizabeth.Thanks. I really thought we'd be able to make it work."
+p941
+I454257
+I461623
+tp942
+a(S"Thanks. I really thought we'd be able to make it work.I guess it wasn't meant to be."
+p943
+I457527
+I463992
+tp944
+a(S"I guess it wasn't meant to be.Yeah. Love. It's a tricky business, isn't it?"
+p945
+I461831
+I468603
+tp946
+a(S"Yeah. Love. It's a tricky business, isn't it?-I guess so."
+p947
+I464200
+I473669
+tp948
+a(S'-I guess so.So, what do you say we make a pact?'
+p949
+I470006
+I473669
+tp950
+a(S'So, what do you say we make a pact?If you and I are both single by 40, we get married.'
+p951
+I470006
+I477335
+tp952
+a(S'If you and I are both single by 40, we get married.I mean, we know each other, we like each other...'
+p953
+I473877
+I480744
+tp954
+a(S"I mean, we know each other, we like each other...we've already slept together, so there'll be no surprises."
+p955
+I477547
+I484977
+tp956
+a(S'we\'ve already slept together, so there\'ll be no surprises.No, like, "What\'s that?"'
+p957
+I480950
+I486917
+tp958
+a(S'No, like, "What\'s that?"-Oh, you want me to be your backup.'
+p959
+I485188
+I494490
+tp960
+a(S'-Oh, you want me to be your backup.Exactly.'
+p961
+I490360
+I494490
+tp962
+a(S'Exactly.Yeah. I already have one.'
+p963
+I490360
+I496824
+tp964
+a(S'Yeah. I already have one.-What? Who?'
+p965
+I494697
+I499657
+tp966
+a(S'-What? Who?Phoebe.'
+p967
+I498167
+I499657
+tp968
+a(S'Phoebe.Phoebe?'
+p969
+I498167
+I501393
+tp970
+a(S'Phoebe?But she just said Joey is her backup.'
+p971
+I499869
+I504772
+tp972
+a(S"But she just said Joey is her backup.Oh, I don't think so."
+p973
+I501905
+I507135
+tp974
+a(S"Oh, I don't think so.I just had a conversation with her, and she said that she and Joey made a deal."
+p975
+I504974
+I511837
+tp976
+a(S"I just had a conversation with her, and she said that she and Joey made a deal.That's impossible. We have had a deal for years. We shook on it."
+p977
+I507844
+I516485
+tp978
+a(S"That's impossible. We have had a deal for years. We shook on it.Although, believe me, she wanted to do a lot more than that."
+p979
+I512048
+I520884
+tp980
+a(S'Although, believe me, she wanted to do a lot more than that.Where the hell have you been?!'
+p981
+I516686
+I526334
+tp982
+a(S'Where the hell have you been?!I was making a coconut phone with the Professor.'
+p983
+I524036
+I530167
+tp984
+a(S'I was making a coconut phone with the Professor.Richard told Monica he wants to marry her.'
+p985
+I526538
+I534507
+tp986
+a(S'Richard told Monica he wants to marry her.-What?'
+p987
+I531310
+I538309
+tp988
+a(S"-What?I've been trying to find you."
+p989
+I534680
+I538309
+tp990
+a(S"I've been trying to find you.And I would have if these damn boat shoes wouldn't keep flying off!"
+p991
+I534680
+I543079
+tp992
+a(S"And I would have if these damn boat shoes wouldn't keep flying off!-Oh, my God!"
+p993
+I538517
+I545779
+tp994
+a(S'-Oh, my God!I know! They suck!'
+p995
+I543288
+I545779
+tp996
+a(S"I know! They suck!He's not supposed to ask her to marry him! I am!"
+p997
+I543288
+I549256
+tp998
+a(S"He's not supposed to ask her to marry him! I am!-I know!"
+p999
+I545991
+I550758
+tp1000
+a(S'-I know!What..?'
+p1001
+I549461
+I550758
+tp1002
+a(S"What..?You know what I'll do? I'll go over there and kick his ass!"
+p1003
+I549461
+I555059
+tp1004
+a(S"You know what I'll do? I'll go over there and kick his ass!Will you help me?"
+p1005
+I550963
+I556632
+tp1006
+a(S"Will you help me?Look, I don't think us getting our asses kicked is a solution, okay?"
+p1007
+I555267
+I563535
+tp1008
+a(S"Look, I don't think us getting our asses kicked is a solution, okay?-Look, just go and find Monica."
+p1009
+I558370
+I567178
+tp1010
+a(S"-Look, just go and find Monica.You're right."
+p1011
+I563742
+I567178
+tp1012
+a(S"You're right.Okay. I'm gonna get the ring..."
+p1013
+I563742
+I569745
+tp1014
+a(S"Okay. I'm gonna get the ring...I'm gonna go find her and I'm gonna propose!"
+p1015
+I567379
+I573042
+tp1016
+a(S"I'm gonna go find her and I'm gonna propose!Dude! Dude! Dude!"
+p1017
+I569948
+I576043
+tp1018
+a(S'Dude! Dude! Dude!That coconut phone might be good for the boat.'
+p1019
+I574519
+I579588
+tp1020
+a(S'That coconut phone might be good for the boat.Hi.'
+p1021
+I576221
+I599273
+tp1022
+a(S"Hi.I don't know why I'm here."
+p1023
+I594172
+I604812
+tp1024
+a(S"I don't know why I'm here.I didn't ask."
+p1025
+I602947
+I607041
+tp1026
+a(S"I didn't ask.-You wanna come in?"
+p1027
+I605449
+I612718
+tp1028
+a(S"-You wanna come in?I don't know."
+p1029
+I609453
+I612718
+tp1030
+a(S"I don't know.Oh, okay."
+p1031
+I609453
+I615220
+tp1032
+a(S"Oh, okay.I'll just leave the door open and sit on the couch."
+p1033
+I613491
+I619523
+tp1034
+a(S"I'll just leave the door open and sit on the couch.-Chandler is such an idiot!"
+p1035
+I615860
+I624866
+tp1036
+a(S'-Chandler is such an idiot!Drink?'
+p1037
+I621499
+I624866
+tp1038
+a(S'Drink?-Scotch on the..'
+p1039
+I621499
+I629163
+tp1040
+a(S'-Scotch on the..Rocks with a twist?'
+p1041
+I626137
+I629163
+tp1042
+a(S'Rocks with a twist?I remember.'
+p1043
+I626137
+I630897
+tp1044
+a(S'I remember.You still smoking cigars?'
+p1045
+I629373
+I635871
+tp1046
+a(S"You still smoking cigars?No, no. That's art."
+p1047
+I633744
+I639215
+tp1048
+a(S"No, no. That's art.If it bothers you, I can put my art out."
+p1049
+I636747
+I643944
+tp1050
+a(S"If it bothers you, I can put my art out.No, that's okay."
+p1051
+I640918
+I646656
+tp1052
+a(S"No, that's okay.So, Monica, let me ask you a question."
+p1053
+I644688
+I652655
+tp1054
+a(S'So, Monica, let me ask you a question.Since we broke up, do you ever...'
+p1055
+I649026
+I655798
+tp1056
+a(S'Since we broke up, do you ever...think about me?'
+p1057
+I652863
+I657627
+tp1058
+a(S'think about me?Actually, I thought about you a few months ago.'
+p1059
+I656000
+I661462
+tp1060
+a(S'Actually, I thought about you a few months ago.-Really?'
+p1061
+I658402
+I663607
+tp1062
+a(S"-Really?But it's because..."
+p1063
+I661639
+I663607
+tp1064
+a(S"But it's because...I had an eye exam, and I don't like my new eye doctor."
+p1065
+I661639
+I667539
+tp1066
+a(S"I had an eye exam, and I don't like my new eye doctor.-Who is it?"
+p1067
+I663808
+I670306
+tp1068
+a(S'-Who is it?Edward Nevsky.'
+p1069
+I668679
+I670306
+tp1070
+a(S"Edward Nevsky.He's no good."
+p1071
+I668679
+I671945
+tp1072
+a(S"He's no good.Do you ever think about me..."
+p1073
+I670648
+I677181
+tp1074
+a(S'Do you ever think about me...-in a non-eye-doctor way?'
+p1075
+I674018
+I681116
+tp1076
+a(S'-in a non-eye-doctor way?No.'
+p1077
+I678022
+I681116
+tp1078
+a(S"No.Because getting over you was the hardest thing I've ever done."
+p1079
+I678022
+I689661
+tp1080
+a(S"Because getting over you was the hardest thing I've ever done.I never let myself think about you."
+p1081
+I685429
+I693001
+tp1082
+a(S'I never let myself think about you.Wow.'
+p1083
+I690134
+I695095
+tp1084
+a(S'Wow.Phoebe, you picked Joey and Ross?'
+p1085
+I693537
+I703012
+tp1086
+a(S"Phoebe, you picked Joey and Ross?-You can't have two backups!"
+p1087
+I700077
+I707048
+tp1088
+a(S"-You can't have two backups!Of course I can."
+p1089
+I703214
+I707048
+tp1090
+a(S"Of course I can.It's good sense to back up your backup."
+p1091
+I703214
+I710118
+tp1092
+a(S"It's good sense to back up your backup.-Look, I've already lost Chandler."
+p1093
+I707251
+I712949
+tp1094
+a(S"-Look, I've already lost Chandler.What?"
+p1095
+I710321
+I712949
+tp1096
+a(S"What?Hey, Phoebe! We're both your backup?"
+p1097
+I710321
+I716622
+tp1098
+a(S"Hey, Phoebe! We're both your backup?How could you do this to me?"
+p1099
+I713858
+I719523
+tp1100
+a(S'How could you do this to me?Why are you complaining? You were both aware of the situation.'
+p1101
+I716827
+I724433
+tp1102
+a(S'Why are you complaining? You were both aware of the situation.-I was not!'
+p1103
+I720030
+I726536
+tp1104
+a(S"-I was not!No, we weren't!"
+p1105
+I724602
+I726536
+tp1106
+a(S"No, we weren't!This kind of backtalk won't fly when we're married."
+p1107
+I724602
+I730366
+tp1108
+a(S"This kind of backtalk won't fly when we're married.You can't have both. Pick one."
+p1109
+I726737
+I733574
+tp1110
+a(S"You can't have both. Pick one.-Pick me!"
+p1111
+I731208
+I735301
+tp1112
+a(S'-Pick me!No, pick me!'
+p1113
+I733777
+I735301
+tp1114
+a(S"No, pick me!-I don't wanna end up an old maid."
+p1115
+I733777
+I740473
+tp1116
+a(S"-I don't wanna end up an old maid.All right. Well, let's see."
+p1117
+I735513
+I740473
+tp1118
+a(S"All right. Well, let's see.Ross is a good father."
+p1119
+I735513
+I743016
+tp1120
+a(S'Ross is a good father.But...'
+p1121
+I740684
+I744546
+tp1122
+a(S'But...Joey has a boat. This is hard.'
+p1123
+I743454
+I747087
+tp1124
+a(S'Joey has a boat. This is hard.This is crazy. I wanna switch to Rachel.'
+p1125
+I744755
+I750021
+tp1126
+a(S'This is crazy. I wanna switch to Rachel.-I wanna switch to Rachel too.'
+p1127
+I747291
+I753889
+tp1128
+a(S'-I wanna switch to Rachel too.No, wait. Just wait.'
+p1129
+I750294
+I753889
+tp1130
+a(S"No, wait. Just wait.Wait, guys. Don't make any rash decisions."
+p1131
+I750294
+I757227
+tp1132
+a(S"Wait, guys. Don't make any rash decisions.Just remember my promise:"
+p1133
+I754064
+I759425
+tp1134
+a(S'Just remember my promise:If we get married, three times a week.'
+p1135
+I757434
+I762663
+tp1136
+a(S'If we get married, three times a week.Oh, my God. Phoebe...'
+p1137
+I759637
+I764431
+tp1138
+a(S"Oh, my God. Phoebe...I'm talking about massages."
+p1139
+I762873
+I767076
+tp1140
+a(S"I'm talking about massages.No, I'm not."
+p1141
+I764642
+I769438
+tp1142
+a(S"No, I'm not.I know how to settle it. We'll do this."
+p1143
+I767311
+I775519
+tp1144
+a(S'I know how to settle it. We\'ll do this.I\'m gonna write "Joey" on one napkin...'
+p1145
+I772550
+I779211
+tp1146
+a(S'I\'m gonna write "Joey" on one napkin...and "Ross" on the other napkin and we\'re gonna pick one.'
+p1147
+I775719
+I784224
+tp1148
+a(S'and "Ross" on the other napkin and we\'re gonna pick one.That person will be our backup. Okay?'
+p1149
+I779423
+I787226
+tp1150
+a(S'That person will be our backup. Okay?-Sounds fair.'
+p1151
+I784428
+I789023
+tp1152
+a(S'-Sounds fair.All right.'
+p1153
+I787431
+I789023
+tp1154
+a(S'All right.Good. Switching them up.'
+p1155
+I787431
+I791531
+tp1156
+a(S'Good. Switching them up.-Pick one.'
+p1157
+I789233
+I796870
+tp1158
+a(S'-Pick one.Left.'
+p1159
+I795005
+I796870
+tp1160
+a(S'Left.-Thank you.'
+p1161
+I795005
+I799835
+tp1162
+a(S"-Thank you.You're welcome."
+p1163
+I797708
+I799835
+tp1164
+a(S"You're welcome.-Ross."
+p1165
+I797708
+I804514
+tp1166
+a(S'-Ross.Joey.'
+p1167
+I802046
+I804514
+tp1168
+a(S'Joey.-We should switch.'
+p1169
+I802046
+I808814
+tp1170
+a(S'-We should switch.Absolutely.'
+p1171
+I806550
+I808814
+tp1172
+a(S"Absolutely.I missed this apartment. Now, this is a grownup's apartment."
+p1173
+I806550
+I817074
+tp1174
+a(S"I missed this apartment. Now, this is a grownup's apartment.I should be with a grownup, you know?"
+p1175
+I812637
+I819766
+tp1176
+a(S"I should be with a grownup, you know?You're saying you need to be with someone more mature."
+p1177
+I817275
+I824276
+tp1178
+a(S"You're saying you need to be with someone more mature.Maybe someone with..."
+p1179
+I820112
+I827077
+tp1180
+a(S'Maybe someone with...a license to practice medicine.'
+p1181
+I824950
+I830114
+tp1182
+a(S'a license to practice medicine.Or a mustache.'
+p1183
+I827486
+I832218
+tp1184
+a(S"Or a mustache.Let's face it. I'm not a kid anymore."
+p1185
+I830455
+I836187
+tp1186
+a(S"Let's face it. I'm not a kid anymore.I need someone who wants the same things."
+p1187
+I833525
+I839329
+tp1188
+a(S'I need someone who wants the same things.Coming to my work and telling me you love me, I want that!'
+p1189
+I836394
+I843991
+tp1190
+a(S"Coming to my work and telling me you love me, I want that!Talking about pig sex over lunch, I don't want that!"
+p1191
+I839531
+I848336
+tp1192
+a(S"Talking about pig sex over lunch, I don't want that!I think that's fair."
+p1193
+I844536
+I851201
+tp1194
+a(S"I think that's fair.Please, don't even talk to me about fair."
+p1195
+I849574
+I854344
+tp1196
+a(S"Please, don't even talk to me about fair.Fair would've been you wanting to marry me then."
+p1197
+I851409
+I857913
+tp1198
+a(S"Fair would've been you wanting to marry me then.Or Chandler wanting to marry me now."
+p1199
+I854546
+I860584
+tp1200
+a(S'Or Chandler wanting to marry me now.Believe me, nothing about this is fair. Nothing.'
+p1201
+I858116
+I863949
+tp1202
+a(S'Believe me, nothing about this is fair. Nothing.-Nothing! Nothing!'
+p1203
+I860786
+I866852
+tp1204
+a(S"-Nothing! Nothing!It's okay."
+p1205
+I864122
+I866852
+tp1206
+a(S"It's okay.Nothing."
+p1207
+I864122
+I872728
+tp1208
+a(S"Nothing.I don't know."
+p1209
+I871329
+I880697
+tp1210
+a(S"I don't know.I know."
+p1211
+I877669
+I883805
+tp1212
+a(S'I know.I have to figure some..'
+p1213
+I882474
+I889711
+tp1214
+a(S'I have to figure some..Some stuff, before I can...'
+p1215
+I887345
+I892577
+tp1216
+a(S'Some stuff, before I can...I understand.'
+p1217
+I889915
+I894318
+tp1218
+a(S'I understand.Take as much time as you want.'
+p1219
+I892851
+I897852
+tp1220
+a(S'Take as much time as you want.Ten, even 20 minutes, if you need it.'
+p1221
+I895520
+I901388
+tp1222
+a(S"Ten, even 20 minutes, if you need it.I'll be here. Not smoking."
+p1223
+I898590
+I905091
+tp1224
+a(S"I'll be here. Not smoking.Where is she?"
+p1225
+I902327
+I923370
+tp1226
+a(S"Where is she?I'm not scared of you."
+p1227
+I921880
+I925583
+tp1228
+a(S"I'm not scared of you.She's not here. And please come in."
+p1229
+I923615
+I930082
+tp1230
+a(S"She's not here. And please come in.Scotch on the rocks..."
+p1231
+I927352
+I932789
+tp1232
+a(S'Scotch on the rocks...with a twist, on a coaster.'
+p1233
+I931356
+I935459
+tp1234
+a(S'with a twist, on a coaster.Monica?'
+p1235
+I932991
+I937218
+tp1236
+a(S'Monica?Okay, she was here. But she left.'
+p1237
+I935660
+I941431
+tp1238
+a(S'Okay, she was here. But she left.Where did she go?'
+p1239
+I938997
+I942999
+tp1240
+a(S'Where did she go?She said she had to think things over.'
+p1241
+I941600
+I945829
+tp1242
+a(S"She said she had to think things over.Oh, my God. I can't believe this. I thought you were a good guy."
+p1243
+I943201
+I950440
+tp1244
+a(S"Oh, my God. I can't believe this. I thought you were a good guy.Look, nothing happened."
+p1245
+I946037
+I952405
+tp1246
+a(S"Look, nothing happened.Nothing? So you didn't tell my girlfriend you love her?"
+p1247
+I950642
+I956604
+tp1248
+a(S"Nothing? So you didn't tell my girlfriend you love her?Well, all right, one thing happened."
+p1249
+I952611
+I959576
+tp1250
+a(S'Well, all right, one thing happened.You know what you did? My girlfriend is thinking things over.'
+p1251
+I956948
+I964251
+tp1252
+a(S'You know what you did? My girlfriend is thinking things over.You made my girlfriend think!'
+p1253
+I959951
+I967050
+tp1254
+a(S"You made my girlfriend think!Well, I'm sorry."
+p1255
+I964456
+I969889
+tp1256
+a(S"Well, I'm sorry.-What's to think about? I love her."
+p1257
+I968126
+I973895
+tp1258
+a(S"-What's to think about? I love her.Well..."
+p1259
+I971062
+I973895
+tp1260
+a(S"Well...I'm willing to offer her things that you aren't."
+p1261
+I971062
+I977398
+tp1262
+a(S"I'm willing to offer her things that you aren't.I'm willing to offer her those things. I had a plan..."
+p1263
+I974099
+I981094
+tp1264
+a(S"I'm willing to offer her those things. I had a plan...to throw her off so when I offered all these things, she'd be surprised."
+p1265
+I977602
+I986642
+tp1266
+a(S"to throw her off so when I offered all these things, she'd be surprised.If it helps, it worked very well."
+p1267
+I981306
+I990005
+tp1268
+a(S'If it helps, it worked very well.It was working till you showed up, you big tree.'
+p1269
+I986945
+I994250
+tp1270
+a(S"It was working till you showed up, you big tree.This isn't fair."
+p1271
+I990849
+I998655
+tp1272
+a(S"This isn't fair.You had your chance with her, and you blew it!"
+p1273
+I996721
+I1002190
+tp1274
+a(S"You had your chance with her, and you blew it!This is my chance. I won't blow it, because we are meant for each other."
+p1275
+I998857
+I1007331
+tp1276
+a(S"This is my chance. I won't blow it, because we are meant for each other.And this has all just been one stupid mistake!"
+p1277
+I1002394
+I1010831
+tp1278
+a(S'And this has all just been one stupid mistake!I was gonna propose tonight.'
+p1279
+I1007532
+I1013701
+tp1280
+a(S'I was gonna propose tonight.-You were gonna propose?'
+p1281
+I1011403
+I1020270
+tp1282
+a(S'-You were gonna propose?Yeah, I even...'
+p1283
+I1016641
+I1020270
+tp1284
+a(S'Yeah, I even...got a ring. Did you get a ring?'
+p1285
+I1016641
+I1024611
+tp1286
+a(S"got a ring. Did you get a ring?No, I don't have a ring."
+p1287
+I1021346
+I1026477
+tp1288
+a(S"No, I don't have a ring.You go get her, Chandler."
+p1289
+I1024816
+I1034215
+tp1290
+a(S'You go get her, Chandler.And can I give you a piece of advice?'
+p1291
+I1032190
+I1039388
+tp1292
+a(S'And can I give you a piece of advice?If you do get her...'
+p1293
+I1036828
+I1041462
+tp1294
+a(S"If you do get her...don't let her go."
+p1295
+I1039597
+I1044195
+tp1296
+a(S"don't let her go.Trust me."
+p1297
+I1042534
+I1045836
+tp1298
+a(S'Trust me.You know, Richard, you are a good guy.'
+p1299
+I1044369
+I1052265
+tp1300
+a(S'You know, Richard, you are a good guy.I know.'
+p1301
+I1048773
+I1055772
+tp1302
+a(S'I know.I hate that.'
+p1303
+I1054612
+I1058572
+tp1304
+a(S"I hate that.-I've gotta find Monica."
+p1305
+I1057048
+I1075658
+tp1306
+a(S"-I've gotta find Monica.She's gone."
+p1307
+I1073064
+I1075658
+tp1308
+a(S"She's gone.-What?"
+p1309
+I1073064
+I1079470
+tp1310
+a(S'-What?She had a bag and she left.'
+p1311
+I1076034
+I1079470
+tp1312
+a(S'She had a bag and she left.-What?'
+p1313
+I1076034
+I1081639
+tp1314
+a(S'-What?She was all crying...'
+p1315
+I1079671
+I1081639
+tp1316
+a(S'She was all crying...She said you guys want different things, and that and that she needed time to think."'
+p1317
+I1079671
+I1085173
+tp1318
+a(S'She said you guys want different things, and that and that she needed time to think."-Why didn\'t you just tell her it was a plan?'
+p1319
+I1081840
+I1089609
+tp1320
+a(S"-Why didn't you just tell her it was a plan?I told her everything."
+p1321
+I1085377
+I1089609
+tp1322
+a(S"I told her everything.-But she wouldn't believe me."
+p1323
+I1085377
+I1094080
+tp1324
+a(S"-But she wouldn't believe me.Well, where..? Where did she go?"
+p1325
+I1089814
+I1094080
+tp1326
+a(S"Well, where..? Where did she go?To her parents'. She said you shouldn't call. But if I were you, I would."
+p1327
+I1089814
+I1099655
+tp1328
+a(S"To her parents'. She said you shouldn't call. But if I were you, I would.-I can't believe I ruined this."
+p1329
+I1094285
+I1104423
+tp1330
+a(S"-I can't believe I ruined this.I am so sorry, man."
+p1331
+I1100191
+I1104423
+tp1332
+a(S'I am so sorry, man.You wanted it to be a surprise.'
+p1333
+I1100191
+I1118132
+tp1334
+a(S'You wanted it to be a surprise.Oh, my God.'
+p1335
+I1115607
+I1129543
+tp1336
+a(S'Oh, my God.Chandler...'
+p1337
+I1128053
+I1137584
+tp1338
+a(S'Chandler...in all my life...'
+p1339
+I1136094
+I1140898
+tp1340
+a(S'in all my life...I never thought I would be so lucky...'
+p1341
+I1138930
+I1144295
+tp1342
+a(S'I never thought I would be so lucky...as to fall in love with my best...'
+p1343
+I1141633
+I1151467
+tp1344
+a(S'as to fall in love with my best...My best...'
+p1345
+I1147872
+I1154469
+tp1346
+a(S"My best...There's a reason why girls don't do this!"
+p1347
+I1152877
+I1158482
+tp1348
+a(S"There's a reason why girls don't do this!I'll do it. I thought..."
+p1349
+I1155547
+I1161977
+tp1350
+a(S"I'll do it. I thought...Wait, I can do this."
+p1351
+I1159417
+I1168051
+tp1352
+a(S'Wait, I can do this.I thought that it mattered...'
+p1353
+I1166424
+I1175022
+tp1354
+a(S'I thought that it mattered...what I said or where I said it.'
+p1355
+I1171996
+I1178828
+tp1356
+a(S'what I said or where I said it.Then I realized...'
+p1357
+I1175233
+I1181562
+tp1358
+a(S'Then I realized...the only thing that matters is that you...'
+p1359
+I1179537
+I1184807
+tp1360
+a(S'the only thing that matters is that you...You make me happier than I ever thought I could be.'
+p1361
+I1181906
+I1193082
+tp1362
+a(S'You make me happier than I ever thought I could be.And if you let me...'
+p1363
+I1188713
+I1198121
+tp1364
+a(S"And if you let me...I'll spend all my life trying to make you feel the same way."
+p1365
+I1196221
+I1203092
+tp1366
+a(S"I'll spend all my life trying to make you feel the same way.Monica..."
+p1367
+I1198723
+I1213402
+tp1368
+a(S'Monica...will you marry me?'
+p1369
+I1212003
+I1216907
+tp1370
+a(S'will you marry me?Yes.'
+p1371
+I1215440
+I1220668
+tp1372
+a(S'Yes.I knew you were likely to take a wife!'
+p1373
+I1219144
+I1237857
+tp1374
+a(S"I knew you were likely to take a wife!Can we come in yet? We're dying out here!"
+p1375
+I1234626
+I1243027
+tp1376
+a(S"Can we come in yet? We're dying out here!Come in! Come in!"
+p1377
+I1239864
+I1245159
+tp1378
+a(S"Come in! Come in!We're engaged!"
+p1379
+I1243635
+I1249103
+tp1380
+a(S"We're engaged!This is the least jealous I've ever been."
+p1381
+I1247272
+I1258715
+tp1382
+a(S"This is the least jealous I've ever been.Oh, no, wait! This is wrong! Ross isn't here!"
+p1383
+I1255780
+I1262581
+tp1384
+a(S"Oh, no, wait! This is wrong! Ross isn't here!Hell, he's done it three times. He knows what it's about!"
+p1385
+I1259350
+I1268650
+tp1386
+a(S"What? What did you..? What?I still love you.I know I shouldn't even be here telling you this."
+p1387
+I3938
+I10144
+tp1388
+a(S"I still love you.I know I shouldn't even be here telling you this.You're with Chandler, who I like."
+p1389
+I8242
+I13814
+tp1390
+a(S"I know I shouldn't even be here telling you this.You're with Chandler, who I like.If you say he's straight, I'll believe you."
+p1391
+I10144
+I16417
+tp1392
+a(S"You're with Chandler, who I like.If you say he's straight, I'll believe you.After seeing you, I knew if I didn't tell you I'd regret it."
+p1393
+I13814
+I20154
+tp1394
+a(S"If you say he's straight, I'll believe you.After seeing you, I knew if I didn't tell you I'd regret it.Letting you go was the stupidest thing I ever did."
+p1395
+I16417
+I24592
+tp1396
+a(S"After seeing you, I knew if I didn't tell you I'd regret it.Letting you go was the stupidest thing I ever did.You're really not supposed to be back here."
+p1397
+I20154
+I28729
+tp1398
+a(S"Letting you go was the stupidest thing I ever did.You're really not supposed to be back here.I'm sorry. I know this is the wrong time and the wrong place..."
+p1399
+I24592
+I32033
+tp1400
+a(S"You're really not supposed to be back here.I'm sorry. I know this is the wrong time and the wrong place...but I had to tell you."
+p1401
+I28729
+I36871
+tp1402
+a(S"I'm sorry. I know this is the wrong time and the wrong place...but I had to tell you.I wanna spend my life with you. I wanna marry you."
+p1403
+I32033
+I39240
+tp1404
+a(S'but I had to tell you.I wanna spend my life with you. I wanna marry you.I wanna have kids with you.'
+p1405
+I36871
+I43811
+tp1406
+a(S"I wanna spend my life with you. I wanna marry you.I wanna have kids with you.Oh, my God. Why don't they put chairs back here?"
+p1407
+I39240
+I48482
+tp1408
+a(S"I wanna have kids with you.Oh, my God. Why don't they put chairs back here?Look, I know this is crazy, but am I too late?"
+p1409
+I43811
+I53087
+tp1410
+a(S"Oh, my God. Why don't they put chairs back here?Look, I know this is crazy, but am I too late?You're too late. Where was all this three years ago?"
+p1411
+I48482
+I56958
+tp1412
+a(S"Look, I know this is crazy, but am I too late?You're too late. Where was all this three years ago?I know. I was an idiot."
+p1413
+I53087
+I60728
+tp1414
+a(S"You're too late. Where was all this three years ago?I know. I was an idiot.I tried to forget you. I really did."
+p1415
+I56958
+I63364
+tp1416
+a(S'I know. I was an idiot.I tried to forget you. I really did.After our last lunch, I spent six months in Africa trying to forget.'
+p1417
+I60728
+I66033
+tp1418
+a(S'I tried to forget you. I really did.After our last lunch, I spent six months in Africa trying to forget.-What did you do there?'
+p1419
+I63364
+I71138
+tp1420
+a(S'After our last lunch, I spent six months in Africa trying to forget.-What did you do there?Work with blind kids.'
+p1421
+I66033
+I71138
+tp1422
+a(S'-What did you do there?Work with blind kids.What are you doing to me?'
+p1423
+I71138
+I74608
+tp1424
+a(S'Work with blind kids.What are you doing to me?Look, I...'
+p1425
+I71138
+I77611
+tp1426
+a(S"What are you doing to me?Look, I...I'm sorry, but this is not gonna happen."
+p1427
+I74608
+I79480
+tp1428
+a(S"Look, I...I'm sorry, but this is not gonna happen.That's fine. I'll walk away. I'll never bother you again."
+p1429
+I77611
+I83317
+tp1430
+a(S"I'm sorry, but this is not gonna happen.That's fine. I'll walk away. I'll never bother you again.Only if you say Chandler's willing to give you everything I am."
+p1431
+I79480
+I87421
+tp1432
+a(S"That's fine. I'll walk away. I'll never bother you again.Only if you say Chandler's willing to give you everything I am.Well, he is. I mean..."
+p1433
+I83317
+I92025
+tp1434
+a(S"Only if you say Chandler's willing to give you everything I am.Well, he is. I mean...marriage is all he talks about. My goodness!"
+p1435
+I87421
+I94661
+tp1436
+a(S"Well, he is. I mean...marriage is all he talks about. My goodness!In fact, I'm the one making him wait."
+p1437
+I92025
+I98365
+tp1438
+a(S"marriage is all he talks about. My goodness!In fact, I'm the one making him wait.You are? Why?"
+p1439
+I94661
+I101468
+tp1440
+a(S"In fact, I'm the one making him wait.You are? Why?Why?"
+p1441
+I98365
+I103403
+tp1442
+a(S'You are? Why?Why?Because of the government.'
+p1443
+I101468
+I105772
+tp1444
+a(S"Why?Because of the government.Isn't it incredible?"
+p1445
+I103403
+I148645
+tp1446
+a(S"Because of the government.Isn't it incredible?Monica and Chandler are getting married."
+p1447
+I105772
+I151381
+tp1448
+a(S"Isn't it incredible?Monica and Chandler are getting married.I know. They'll be so happy together."
+p1449
+I148645
+I154618
+tp1450
+a(S"Monica and Chandler are getting married.I know. They'll be so happy together.How often do two best friends fall in love?"
+p1451
+I151381
+I157888
+tp1452
+a(S"I know. They'll be so happy together.How often do two best friends fall in love?-Not that often."
+p1453
+I154618
+I160991
+tp1454
+a(S'How often do two best friends fall in love?-Not that often.No.'
+p1455
+I157888
+I160991
+tp1456
+a(S"-Not that often.No.-I'm so happy for them."
+p1457
+I160991
+I163927
+tp1458
+a(S"No.-I'm so happy for them.Me too. So happy for them."
+p1459
+I160991
+I163927
+tp1460
+a(S"-I'm so happy for them.Me too. So happy for them.I'm so happy and not at all jealous."
+p1461
+I163927
+I168798
+tp1462
+a(S"Me too. So happy for them.I'm so happy and not at all jealous.Oh, no! God, definitely not jealous."
+p1463
+I163927
+I171835
+tp1464
+a(S"I'm so happy and not at all jealous.Oh, no! God, definitely not jealous.I'm probably 98% happy and maybe 2% jealous."
+p1465
+I168798
+I180310
+tp1466
+a(S"Oh, no! God, definitely not jealous.I'm probably 98% happy and maybe 2% jealous.-I mean, what's 2%? That's nothing."
+p1467
+I171835
+I184714
+tp1468
+a(S"I'm probably 98% happy and maybe 2% jealous.-I mean, what's 2%? That's nothing.Totally."
+p1469
+I180310
+I184714
+tp1470
+a(S"-I mean, what's 2%? That's nothing.Totally.-I'm like 90/10."
+p1471
+I184714
+I190687
+tp1472
+a(S"Totally.-I'm like 90/10.Yeah. Me too."
+p1473
+I184714
+I190687
+tp1474
+a(S"-I'm like 90/10.Yeah. Me too.Have you guys seen Chandler?"
+p1475
+I190687
+I198497
+tp1476
+a(S'Yeah. Me too.Have you guys seen Chandler?No. But you know who was looking for you?'
+p1477
+I190687
+I203468
+tp1478
+a(S'Have you guys seen Chandler?No. But you know who was looking for you?Tennille.'
+p1479
+I198497
+I206572
+tp1480
+a(S"No. But you know who was looking for you?Tennille.The marriage stuff you were saying yesterday? You don't believe that."
+p1481
+I203468
+I216848
+tp1482
+a(S"Tennille.The marriage stuff you were saying yesterday? You don't believe that.Sure, I do. In fact, I think the concept of marriage is unnatural."
+p1483
+I206572
+I221520
+tp1484
+a(S"The marriage stuff you were saying yesterday? You don't believe that.Sure, I do. In fact, I think the concept of marriage is unnatural.Look at pigs. Let's take a second here and look at pigs."
+p1485
+I216848
+I227059
+tp1486
+a(S"Sure, I do. In fact, I think the concept of marriage is unnatural.Look at pigs. Let's take a second here and look at pigs.Pigs don't mate for life."
+p1487
+I221520
+I231330
+tp1488
+a(S"Look at pigs. Let's take a second here and look at pigs.Pigs don't mate for life.A pig can have 100 sexual partners in a lifetime."
+p1489
+I227059
+I233332
+tp1490
+a(S"Pigs don't mate for life.A pig can have 100 sexual partners in a lifetime.That's an ordinary pig, not even a pig that's good at sports."
+p1491
+I231330
+I237169
+tp1492
+a(S"A pig can have 100 sexual partners in a lifetime.That's an ordinary pig, not even a pig that's good at sports.Are you telling me you may never want to get married?"
+p1493
+I233332
+I243422
+tp1494
+a(S"That's an ordinary pig, not even a pig that's good at sports.Are you telling me you may never want to get married?Never say never, but, probably..."
+p1495
+I237169
+I247596
+tp1496
+a(S'Are you telling me you may never want to get married?Never say never, but, probably...yeah, never.'
+p1497
+I243422
+I250432
+tp1498
+a(S'Never say never, but, probably...yeah, never.Oh, my God. Then what are we even doing? What is this?'
+p1499
+I247596
+I252868
+tp1500
+a(S'yeah, never.Oh, my God. Then what are we even doing? What is this?Whoa, whoa, whoa! What is all this pressure?'
+p1501
+I250432
+I257272
+tp1502
+a(S'Oh, my God. Then what are we even doing? What is this?Whoa, whoa, whoa! What is all this pressure?Is this some new strategy?'
+p1503
+I252868
+I261176
+tp1504
+a(S"Whoa, whoa, whoa! What is all this pressure?Is this some new strategy?Why don't you put down your copy of The Rules, huh, mantrap?"
+p1505
+I257272
+I263278
+tp1506
+a(S"Is this some new strategy?Why don't you put down your copy of The Rules, huh, mantrap?You know what? I gotta go."
+p1507
+I261176
+I268484
+tp1508
+a(S"Why don't you put down your copy of The Rules, huh, mantrap?You know what? I gotta go.It's okay. I got a plan."
+p1509
+I263278
+I272788
+tp1510
+a(S"You know what? I gotta go.It's okay. I got a plan.-We're gonna find love."
+p1511
+I268484
+I280963
+tp1512
+a(S"It's okay. I got a plan.-We're gonna find love.Definitely."
+p1513
+I272788
+I280963
+tp1514
+a(S"-We're gonna find love.Definitely.Yeah, I'm pretty confident about that."
+p1515
+I280963
+I285100
+tp1516
+a(S"Definitely.Yeah, I'm pretty confident about that.That's what makes it so easy to be 80% happy for Monica and Chandler."
+p1517
+I280963
+I288203
+tp1518
+a(S"Yeah, I'm pretty confident about that.That's what makes it so easy to be 80% happy for Monica and Chandler.-A guarantee would be nice."
+p1519
+I285100
+I293709
+tp1520
+a(S"That's what makes it so easy to be 80% happy for Monica and Chandler.-A guarantee would be nice.What do you mean?"
+p1521
+I288203
+I293709
+tp1522
+a(S'-A guarantee would be nice.What do you mean?Some friends make a deal.'
+p1523
+I293709
+I296912
+tp1524
+a(S'What do you mean?Some friends make a deal.Like if neither of them are married by 40, they marry each other.'
+p1525
+I293709
+I299615
+tp1526
+a(S'Some friends make a deal.Like if neither of them are married by 40, they marry each other.-A backup?'
+p1527
+I296912
+I304353
+tp1528
+a(S'Like if neither of them are married by 40, they marry each other.-A backup?Exactly.'
+p1529
+I299615
+I304353
+tp1530
+a(S"-A backup?Exactly.Yeah, I've got that."
+p1531
+I304353
+I306255
+tp1532
+a(S"Exactly.Yeah, I've got that.You do?"
+p1533
+I304353
+I309491
+tp1534
+a(S"Yeah, I've got that.You do?-Who?"
+p1535
+I306255
+I311160
+tp1536
+a(S'You do?-Who?Joey.'
+p1537
+I309491
+I311160
+tp1538
+a(S'-Who?Joey.-Joey? Are you serious?'
+p1539
+I311160
+I312628
+tp1540
+a(S'Joey.-Joey? Are you serious?I locked him in years ago.'
+p1541
+I311160
+I312628
+tp1542
+a(S"-Joey? Are you serious?I locked him in years ago.Wait. So if neither of you are married by 40, you'll marry Joey?"
+p1543
+I312628
+I320703
+tp1544
+a(S"I locked him in years ago.Wait. So if neither of you are married by 40, you'll marry Joey?Yep. We shook on it."
+p1545
+I312628
+I325941
+tp1546
+a(S"Wait. So if neither of you are married by 40, you'll marry Joey?Yep. We shook on it.But believe me, that is not how he wanted to seal the deal."
+p1547
+I320703
+I328243
+tp1548
+a(S'Yep. We shook on it.But believe me, that is not how he wanted to seal the deal.Oh, seriously?'
+p1549
+I325941
+I333449
+tp1550
+a(S'But believe me, that is not how he wanted to seal the deal.Oh, seriously?I think his exact words were..'
+p1551
+I328243
+I335250
+tp1552
+a(S'Oh, seriously?I think his exact words were..Charming.'
+p1553
+I333449
+I340255
+tp1554
+a(S"I think his exact words were..Charming.He's just a backup."
+p1555
+I335250
+I342124
+tp1556
+a(S"Charming.He's just a backup.-Hey, Monica."
+p1557
+I340255
+I352334
+tp1558
+a(S"He's just a backup.-Hey, Monica.Have you seen Rachel? Or a mirror?"
+p1559
+I342124
+I352334
+tp1560
+a(S"-Hey, Monica.Have you seen Rachel? Or a mirror?-It's for my boat. Pretty cool, huh?"
+p1561
+I352334
+I357506
+tp1562
+a(S"Have you seen Rachel? Or a mirror?-It's for my boat. Pretty cool, huh?Yeah, it's great."
+p1563
+I352334
+I357506
+tp1564
+a(S"-It's for my boat. Pretty cool, huh?Yeah, it's great.What's wrong? Talk to the captain."
+p1565
+I357506
+I361543
+tp1566
+a(S"Yeah, it's great.What's wrong? Talk to the captain.Just realizing I'm in a dead-end relationship."
+p1567
+I357506
+I366048
+tp1568
+a(S"What's wrong? Talk to the captain.Just realizing I'm in a dead-end relationship.-Chandler being difficult?"
+p1569
+I361543
+I369685
+tp1570
+a(S"Just realizing I'm in a dead-end relationship.-Chandler being difficult?I don't want marriage tomorrow."
+p1571
+I366048
+I369685
+tp1572
+a(S"-Chandler being difficult?I don't want marriage tomorrow.But I wanna know we're going somewhere, that I'm not wasting time."
+p1573
+I369685
+I373789
+tp1574
+a(S"I don't want marriage tomorrow.But I wanna know we're going somewhere, that I'm not wasting time.-You know Chandler."
+p1575
+I369685
+I378427
+tp1576
+a(S"But I wanna know we're going somewhere, that I'm not wasting time.-You know Chandler.No, I don't know Chandler."
+p1577
+I373789
+I378427
+tp1578
+a(S"-You know Chandler.No, I don't know Chandler.Not anymore. It's like something's changed."
+p1579
+I378427
+I381697
+tp1580
+a(S"No, I don't know Chandler.Not anymore. It's like something's changed.-Maybe you changed."
+p1581
+I378427
+I386301
+tp1582
+a(S"Not anymore. It's like something's changed.-Maybe you changed.I didn't change."
+p1583
+I381697
+I386301
+tp1584
+a(S"-Maybe you changed.I didn't change.Maybe that's the problem."
+p1585
+I386301
+I390105
+tp1586
+a(S"I didn't change.Maybe that's the problem.-What?"
+p1587
+I386301
+I393542
+tp1588
+a(S"Maybe that's the problem.-What?Chandler is a complex fellow."
+p1589
+I390105
+I393542
+tp1590
+a(S'-What?Chandler is a complex fellow.One who is unlikely to take a wife.'
+p1591
+I393542
+I396612
+tp1592
+a(S"Chandler is a complex fellow.One who is unlikely to take a wife.Does he think I'll wait around for nothing?"
+p1593
+I393542
+I402792
+tp1594
+a(S"One who is unlikely to take a wife.Does he think I'll wait around for nothing?Face it. Chandler is against marriage."
+p1595
+I396612
+I406162
+tp1596
+a(S"Does he think I'll wait around for nothing?Face it. Chandler is against marriage.And always will be."
+p1597
+I402792
+I409532
+tp1598
+a(S"Face it. Chandler is against marriage.And always will be.There's some people who do wanna marry me."
+p1599
+I406162
+I412635
+tp1600
+a(S"And always will be.There's some people who do wanna marry me.-There are?"
+p1601
+I409532
+I415738
+tp1602
+a(S"There's some people who do wanna marry me.-There are?Yeah. Richard."
+p1603
+I412635
+I415738
+tp1604
+a(S'-There are?Yeah. Richard.Richard said he wants to marry you?'
+p1605
+I415738
+I418541
+tp1606
+a(S'Yeah. Richard.Richard said he wants to marry you?-And Chandler says he hates marriage?'
+p1607
+I415738
+I422111
+tp1608
+a(S"Richard said he wants to marry you?-And Chandler says he hates marriage?That's right."
+p1609
+I418541
+I422111
+tp1610
+a(S"-And Chandler says he hates marriage?That's right.Chandler loves marriage!"
+p1611
+I422111
+I426115
+tp1612
+a(S"That's right.Chandler loves marriage!You just said he hates marriage!"
+p1613
+I422111
+I430153
+tp1614
+a(S'Chandler loves marriage!You just said he hates marriage!"He\'s a complex fellow who\'s unlikely to take a wife"!'
+p1615
+I426115
+I432588
+tp1616
+a(S'You just said he hates marriage!"He\'s a complex fellow who\'s unlikely to take a wife"!"He\'s against marriage and always will be"!'
+p1617
+I430153
+I436359
+tp1618
+a(S'"He\'s a complex fellow who\'s unlikely to take a wife"!"He\'s against marriage and always will be"!You got that from what I said?'
+p1619
+I432588
+I439022
+tp1620
+a(S'"He\'s against marriage and always will be"!You got that from what I said?-Rach.'
+p1621
+I436359
+I448584
+tp1622
+a(S'You got that from what I said?-Rach.Hey, you.'
+p1623
+I439022
+I448584
+tp1624
+a(S'-Rach.Hey, you.-Come on in.'
+p1625
+I448584
+I452655
+tp1626
+a(S'Hey, you.-Come on in.Thank you.'
+p1627
+I448584
+I452655
+tp1628
+a(S"-Come on in.Thank you.I'm so sorry to hear about you and Elizabeth."
+p1629
+I452655
+I454257
+tp1630
+a(S"Thank you.I'm so sorry to hear about you and Elizabeth.Thanks. I really thought we'd be able to make it work."
+p1631
+I452655
+I457527
+tp1632
+a(S"I'm so sorry to hear about you and Elizabeth.Thanks. I really thought we'd be able to make it work.I guess it wasn't meant to be."
+p1633
+I454257
+I461831
+tp1634
+a(S"Thanks. I really thought we'd be able to make it work.I guess it wasn't meant to be.Yeah. Love. It's a tricky business, isn't it?"
+p1635
+I457527
+I464200
+tp1636
+a(S"I guess it wasn't meant to be.Yeah. Love. It's a tricky business, isn't it?-I guess so."
+p1637
+I461831
+I470006
+tp1638
+a(S"Yeah. Love. It's a tricky business, isn't it?-I guess so.So, what do you say we make a pact?"
+p1639
+I464200
+I470006
+tp1640
+a(S'-I guess so.So, what do you say we make a pact?If you and I are both single by 40, we get married.'
+p1641
+I470006
+I473877
+tp1642
+a(S'So, what do you say we make a pact?If you and I are both single by 40, we get married.I mean, we know each other, we like each other...'
+p1643
+I470006
+I477547
+tp1644
+a(S"If you and I are both single by 40, we get married.I mean, we know each other, we like each other...we've already slept together, so there'll be no surprises."
+p1645
+I473877
+I480950
+tp1646
+a(S'I mean, we know each other, we like each other...we\'ve already slept together, so there\'ll be no surprises.No, like, "What\'s that?"'
+p1647
+I477547
+I485188
+tp1648
+a(S'we\'ve already slept together, so there\'ll be no surprises.No, like, "What\'s that?"-Oh, you want me to be your backup.'
+p1649
+I480950
+I490360
+tp1650
+a(S'No, like, "What\'s that?"-Oh, you want me to be your backup.Exactly.'
+p1651
+I485188
+I490360
+tp1652
+a(S'-Oh, you want me to be your backup.Exactly.Yeah. I already have one.'
+p1653
+I490360
+I494697
+tp1654
+a(S'Exactly.Yeah. I already have one.-What? Who?'
+p1655
+I490360
+I498167
+tp1656
+a(S'Yeah. I already have one.-What? Who?Phoebe.'
+p1657
+I494697
+I498167
+tp1658
+a(S'-What? Who?Phoebe.Phoebe?'
+p1659
+I498167
+I499869
+tp1660
+a(S'Phoebe.Phoebe?But she just said Joey is her backup.'
+p1661
+I498167
+I501905
+tp1662
+a(S"Phoebe?But she just said Joey is her backup.Oh, I don't think so."
+p1663
+I499869
+I504974
+tp1664
+a(S"But she just said Joey is her backup.Oh, I don't think so.I just had a conversation with her, and she said that she and Joey made a deal."
+p1665
+I501905
+I507844
+tp1666
+a(S"Oh, I don't think so.I just had a conversation with her, and she said that she and Joey made a deal.That's impossible. We have had a deal for years. We shook on it."
+p1667
+I504974
+I512048
+tp1668
+a(S"I just had a conversation with her, and she said that she and Joey made a deal.That's impossible. We have had a deal for years. We shook on it.Although, believe me, she wanted to do a lot more than that."
+p1669
+I507844
+I516686
+tp1670
+a(S"That's impossible. We have had a deal for years. We shook on it.Although, believe me, she wanted to do a lot more than that.Where the hell have you been?!"
+p1671
+I512048
+I524036
+tp1672
+a(S'Although, believe me, she wanted to do a lot more than that.Where the hell have you been?!I was making a coconut phone with the Professor.'
+p1673
+I516686
+I526538
+tp1674
+a(S'Where the hell have you been?!I was making a coconut phone with the Professor.Richard told Monica he wants to marry her.'
+p1675
+I524036
+I531310
+tp1676
+a(S'I was making a coconut phone with the Professor.Richard told Monica he wants to marry her.-What?'
+p1677
+I526538
+I534680
+tp1678
+a(S"Richard told Monica he wants to marry her.-What?I've been trying to find you."
+p1679
+I531310
+I534680
+tp1680
+a(S"-What?I've been trying to find you.And I would have if these damn boat shoes wouldn't keep flying off!"
+p1681
+I534680
+I538517
+tp1682
+a(S"I've been trying to find you.And I would have if these damn boat shoes wouldn't keep flying off!-Oh, my God!"
+p1683
+I534680
+I543288
+tp1684
+a(S"And I would have if these damn boat shoes wouldn't keep flying off!-Oh, my God!I know! They suck!"
+p1685
+I538517
+I543288
+tp1686
+a(S"-Oh, my God!I know! They suck!He's not supposed to ask her to marry him! I am!"
+p1687
+I543288
+I545991
+tp1688
+a(S"I know! They suck!He's not supposed to ask her to marry him! I am!-I know!"
+p1689
+I543288
+I549461
+tp1690
+a(S"He's not supposed to ask her to marry him! I am!-I know!What..?"
+p1691
+I545991
+I549461
+tp1692
+a(S"-I know!What..?You know what I'll do? I'll go over there and kick his ass!"
+p1693
+I549461
+I550963
+tp1694
+a(S"What..?You know what I'll do? I'll go over there and kick his ass!Will you help me?"
+p1695
+I549461
+I555267
+tp1696
+a(S"You know what I'll do? I'll go over there and kick his ass!Will you help me?Look, I don't think us getting our asses kicked is a solution, okay?"
+p1697
+I550963
+I558370
+tp1698
+a(S"Will you help me?Look, I don't think us getting our asses kicked is a solution, okay?-Look, just go and find Monica."
+p1699
+I555267
+I563742
+tp1700
+a(S"Look, I don't think us getting our asses kicked is a solution, okay?-Look, just go and find Monica.You're right."
+p1701
+I558370
+I563742
+tp1702
+a(S"-Look, just go and find Monica.You're right.Okay. I'm gonna get the ring..."
+p1703
+I563742
+I567379
+tp1704
+a(S"You're right.Okay. I'm gonna get the ring...I'm gonna go find her and I'm gonna propose!"
+p1705
+I563742
+I569948
+tp1706
+a(S"Okay. I'm gonna get the ring...I'm gonna go find her and I'm gonna propose!Dude! Dude! Dude!"
+p1707
+I567379
+I574519
+tp1708
+a(S"I'm gonna go find her and I'm gonna propose!Dude! Dude! Dude!That coconut phone might be good for the boat."
+p1709
+I569948
+I576221
+tp1710
+a(S'Dude! Dude! Dude!That coconut phone might be good for the boat.Hi.'
+p1711
+I574519
+I594172
+tp1712
+a(S"That coconut phone might be good for the boat.Hi.I don't know why I'm here."
+p1713
+I576221
+I602947
+tp1714
+a(S"Hi.I don't know why I'm here.I didn't ask."
+p1715
+I594172
+I605449
+tp1716
+a(S"I don't know why I'm here.I didn't ask.-You wanna come in?"
+p1717
+I602947
+I609453
+tp1718
+a(S"I didn't ask.-You wanna come in?I don't know."
+p1719
+I605449
+I609453
+tp1720
+a(S"-You wanna come in?I don't know.Oh, okay."
+p1721
+I609453
+I613491
+tp1722
+a(S"I don't know.Oh, okay.I'll just leave the door open and sit on the couch."
+p1723
+I609453
+I615860
+tp1724
+a(S"Oh, okay.I'll just leave the door open and sit on the couch.-Chandler is such an idiot!"
+p1725
+I613491
+I621499
+tp1726
+a(S"I'll just leave the door open and sit on the couch.-Chandler is such an idiot!Drink?"
+p1727
+I615860
+I621499
+tp1728
+a(S'-Chandler is such an idiot!Drink?-Scotch on the..'
+p1729
+I621499
+I626137
+tp1730
+a(S'Drink?-Scotch on the..Rocks with a twist?'
+p1731
+I621499
+I626137
+tp1732
+a(S'-Scotch on the..Rocks with a twist?I remember.'
+p1733
+I626137
+I629373
+tp1734
+a(S'Rocks with a twist?I remember.You still smoking cigars?'
+p1735
+I626137
+I633744
+tp1736
+a(S"I remember.You still smoking cigars?No, no. That's art."
+p1737
+I629373
+I636747
+tp1738
+a(S"You still smoking cigars?No, no. That's art.If it bothers you, I can put my art out."
+p1739
+I633744
+I640918
+tp1740
+a(S"No, no. That's art.If it bothers you, I can put my art out.No, that's okay."
+p1741
+I636747
+I644688
+tp1742
+a(S"If it bothers you, I can put my art out.No, that's okay.So, Monica, let me ask you a question."
+p1743
+I640918
+I649026
+tp1744
+a(S"No, that's okay.So, Monica, let me ask you a question.Since we broke up, do you ever..."
+p1745
+I644688
+I652863
+tp1746
+a(S'So, Monica, let me ask you a question.Since we broke up, do you ever...think about me?'
+p1747
+I649026
+I656000
+tp1748
+a(S'Since we broke up, do you ever...think about me?Actually, I thought about you a few months ago.'
+p1749
+I652863
+I658402
+tp1750
+a(S'think about me?Actually, I thought about you a few months ago.-Really?'
+p1751
+I656000
+I661639
+tp1752
+a(S"Actually, I thought about you a few months ago.-Really?But it's because..."
+p1753
+I658402
+I661639
+tp1754
+a(S"-Really?But it's because...I had an eye exam, and I don't like my new eye doctor."
+p1755
+I661639
+I663808
+tp1756
+a(S"But it's because...I had an eye exam, and I don't like my new eye doctor.-Who is it?"
+p1757
+I661639
+I668679
+tp1758
+a(S"I had an eye exam, and I don't like my new eye doctor.-Who is it?Edward Nevsky."
+p1759
+I663808
+I668679
+tp1760
+a(S"-Who is it?Edward Nevsky.He's no good."
+p1761
+I668679
+I670648
+tp1762
+a(S"Edward Nevsky.He's no good.Do you ever think about me..."
+p1763
+I668679
+I674018
+tp1764
+a(S"He's no good.Do you ever think about me...-in a non-eye-doctor way?"
+p1765
+I670648
+I678022
+tp1766
+a(S'Do you ever think about me...-in a non-eye-doctor way?No.'
+p1767
+I674018
+I678022
+tp1768
+a(S"-in a non-eye-doctor way?No.Because getting over you was the hardest thing I've ever done."
+p1769
+I678022
+I685429
+tp1770
+a(S"No.Because getting over you was the hardest thing I've ever done.I never let myself think about you."
+p1771
+I678022
+I690134
+tp1772
+a(S"Because getting over you was the hardest thing I've ever done.I never let myself think about you.Wow."
+p1773
+I685429
+I693537
+tp1774
+a(S'I never let myself think about you.Wow.Phoebe, you picked Joey and Ross?'
+p1775
+I690134
+I700077
+tp1776
+a(S"Wow.Phoebe, you picked Joey and Ross?-You can't have two backups!"
+p1777
+I693537
+I703214
+tp1778
+a(S"Phoebe, you picked Joey and Ross?-You can't have two backups!Of course I can."
+p1779
+I700077
+I703214
+tp1780
+a(S"-You can't have two backups!Of course I can.It's good sense to back up your backup."
+p1781
+I703214
+I707251
+tp1782
+a(S"Of course I can.It's good sense to back up your backup.-Look, I've already lost Chandler."
+p1783
+I703214
+I710321
+tp1784
+a(S"It's good sense to back up your backup.-Look, I've already lost Chandler.What?"
+p1785
+I707251
+I710321
+tp1786
+a(S"-Look, I've already lost Chandler.What?Hey, Phoebe! We're both your backup?"
+p1787
+I710321
+I713858
+tp1788
+a(S"What?Hey, Phoebe! We're both your backup?How could you do this to me?"
+p1789
+I710321
+I716827
+tp1790
+a(S"Hey, Phoebe! We're both your backup?How could you do this to me?Why are you complaining? You were both aware of the situation."
+p1791
+I713858
+I720030
+tp1792
+a(S'How could you do this to me?Why are you complaining? You were both aware of the situation.-I was not!'
+p1793
+I716827
+I724602
+tp1794
+a(S"Why are you complaining? You were both aware of the situation.-I was not!No, we weren't!"
+p1795
+I720030
+I724602
+tp1796
+a(S"-I was not!No, we weren't!This kind of backtalk won't fly when we're married."
+p1797
+I724602
+I726737
+tp1798
+a(S"No, we weren't!This kind of backtalk won't fly when we're married.You can't have both. Pick one."
+p1799
+I724602
+I731208
+tp1800
+a(S"This kind of backtalk won't fly when we're married.You can't have both. Pick one.-Pick me!"
+p1801
+I726737
+I733777
+tp1802
+a(S"You can't have both. Pick one.-Pick me!No, pick me!"
+p1803
+I731208
+I733777
+tp1804
+a(S"-Pick me!No, pick me!-I don't wanna end up an old maid."
+p1805
+I733777
+I735513
+tp1806
+a(S"No, pick me!-I don't wanna end up an old maid.All right. Well, let's see."
+p1807
+I733777
+I735513
+tp1808
+a(S"-I don't wanna end up an old maid.All right. Well, let's see.Ross is a good father."
+p1809
+I735513
+I740684
+tp1810
+a(S"All right. Well, let's see.Ross is a good father.But..."
+p1811
+I735513
+I743454
+tp1812
+a(S'Ross is a good father.But...Joey has a boat. This is hard.'
+p1813
+I740684
+I744755
+tp1814
+a(S'But...Joey has a boat. This is hard.This is crazy. I wanna switch to Rachel.'
+p1815
+I743454
+I747291
+tp1816
+a(S'Joey has a boat. This is hard.This is crazy. I wanna switch to Rachel.-I wanna switch to Rachel too.'
+p1817
+I744755
+I750294
+tp1818
+a(S'This is crazy. I wanna switch to Rachel.-I wanna switch to Rachel too.No, wait. Just wait.'
+p1819
+I747291
+I750294
+tp1820
+a(S"-I wanna switch to Rachel too.No, wait. Just wait.Wait, guys. Don't make any rash decisions."
+p1821
+I750294
+I754064
+tp1822
+a(S"No, wait. Just wait.Wait, guys. Don't make any rash decisions.Just remember my promise:"
+p1823
+I750294
+I757434
+tp1824
+a(S"Wait, guys. Don't make any rash decisions.Just remember my promise:If we get married, three times a week."
+p1825
+I754064
+I759637
+tp1826
+a(S'Just remember my promise:If we get married, three times a week.Oh, my God. Phoebe...'
+p1827
+I757434
+I762873
+tp1828
+a(S"If we get married, three times a week.Oh, my God. Phoebe...I'm talking about massages."
+p1829
+I759637
+I764642
+tp1830
+a(S"Oh, my God. Phoebe...I'm talking about massages.No, I'm not."
+p1831
+I762873
+I767311
+tp1832
+a(S"I'm talking about massages.No, I'm not.I know how to settle it. We'll do this."
+p1833
+I764642
+I772550
+tp1834
+a(S'No, I\'m not.I know how to settle it. We\'ll do this.I\'m gonna write "Joey" on one napkin...'
+p1835
+I767311
+I775719
+tp1836
+a(S'I know how to settle it. We\'ll do this.I\'m gonna write "Joey" on one napkin...and "Ross" on the other napkin and we\'re gonna pick one.'
+p1837
+I772550
+I779423
+tp1838
+a(S'I\'m gonna write "Joey" on one napkin...and "Ross" on the other napkin and we\'re gonna pick one.That person will be our backup. Okay?'
+p1839
+I775719
+I784428
+tp1840
+a(S'and "Ross" on the other napkin and we\'re gonna pick one.That person will be our backup. Okay?-Sounds fair.'
+p1841
+I779423
+I787431
+tp1842
+a(S'That person will be our backup. Okay?-Sounds fair.All right.'
+p1843
+I784428
+I787431
+tp1844
+a(S'-Sounds fair.All right.Good. Switching them up.'
+p1845
+I787431
+I789233
+tp1846
+a(S'All right.Good. Switching them up.-Pick one.'
+p1847
+I787431
+I795005
+tp1848
+a(S'Good. Switching them up.-Pick one.Left.'
+p1849
+I789233
+I795005
+tp1850
+a(S'-Pick one.Left.-Thank you.'
+p1851
+I795005
+I797708
+tp1852
+a(S"Left.-Thank you.You're welcome."
+p1853
+I795005
+I797708
+tp1854
+a(S"-Thank you.You're welcome.-Ross."
+p1855
+I797708
+I802046
+tp1856
+a(S"You're welcome.-Ross.Joey."
+p1857
+I797708
+I802046
+tp1858
+a(S'-Ross.Joey.-We should switch.'
+p1859
+I802046
+I806550
+tp1860
+a(S'Joey.-We should switch.Absolutely.'
+p1861
+I802046
+I806550
+tp1862
+a(S"-We should switch.Absolutely.I missed this apartment. Now, this is a grownup's apartment."
+p1863
+I806550
+I812637
+tp1864
+a(S"Absolutely.I missed this apartment. Now, this is a grownup's apartment.I should be with a grownup, you know?"
+p1865
+I806550
+I817275
+tp1866
+a(S"I missed this apartment. Now, this is a grownup's apartment.I should be with a grownup, you know?You're saying you need to be with someone more mature."
+p1867
+I812637
+I820112
+tp1868
+a(S"I should be with a grownup, you know?You're saying you need to be with someone more mature.Maybe someone with..."
+p1869
+I817275
+I824950
+tp1870
+a(S"You're saying you need to be with someone more mature.Maybe someone with...a license to practice medicine."
+p1871
+I820112
+I827486
+tp1872
+a(S'Maybe someone with...a license to practice medicine.Or a mustache.'
+p1873
+I824950
+I830455
+tp1874
+a(S"a license to practice medicine.Or a mustache.Let's face it. I'm not a kid anymore."
+p1875
+I827486
+I833525
+tp1876
+a(S"Or a mustache.Let's face it. I'm not a kid anymore.I need someone who wants the same things."
+p1877
+I830455
+I836394
+tp1878
+a(S"Let's face it. I'm not a kid anymore.I need someone who wants the same things.Coming to my work and telling me you love me, I want that!"
+p1879
+I833525
+I839531
+tp1880
+a(S"I need someone who wants the same things.Coming to my work and telling me you love me, I want that!Talking about pig sex over lunch, I don't want that!"
+p1881
+I836394
+I844536
+tp1882
+a(S"Coming to my work and telling me you love me, I want that!Talking about pig sex over lunch, I don't want that!I think that's fair."
+p1883
+I839531
+I849574
+tp1884
+a(S"Talking about pig sex over lunch, I don't want that!I think that's fair.Please, don't even talk to me about fair."
+p1885
+I844536
+I851409
+tp1886
+a(S"I think that's fair.Please, don't even talk to me about fair.Fair would've been you wanting to marry me then."
+p1887
+I849574
+I854546
+tp1888
+a(S"Please, don't even talk to me about fair.Fair would've been you wanting to marry me then.Or Chandler wanting to marry me now."
+p1889
+I851409
+I858116
+tp1890
+a(S"Fair would've been you wanting to marry me then.Or Chandler wanting to marry me now.Believe me, nothing about this is fair. Nothing."
+p1891
+I854546
+I860786
+tp1892
+a(S'Or Chandler wanting to marry me now.Believe me, nothing about this is fair. Nothing.-Nothing! Nothing!'
+p1893
+I858116
+I864122
+tp1894
+a(S"Believe me, nothing about this is fair. Nothing.-Nothing! Nothing!It's okay."
+p1895
+I860786
+I864122
+tp1896
+a(S"-Nothing! Nothing!It's okay.Nothing."
+p1897
+I864122
+I871329
+tp1898
+a(S"It's okay.Nothing.I don't know."
+p1899
+I864122
+I877669
+tp1900
+a(S"Nothing.I don't know.I know."
+p1901
+I871329
+I882474
+tp1902
+a(S"I don't know.I know.I have to figure some.."
+p1903
+I877669
+I887345
+tp1904
+a(S'I know.I have to figure some..Some stuff, before I can...'
+p1905
+I882474
+I889915
+tp1906
+a(S'I have to figure some..Some stuff, before I can...I understand.'
+p1907
+I887345
+I892851
+tp1908
+a(S'Some stuff, before I can...I understand.Take as much time as you want.'
+p1909
+I889915
+I895520
+tp1910
+a(S'I understand.Take as much time as you want.Ten, even 20 minutes, if you need it.'
+p1911
+I892851
+I898590
+tp1912
+a(S"Take as much time as you want.Ten, even 20 minutes, if you need it.I'll be here. Not smoking."
+p1913
+I895520
+I902327
+tp1914
+a(S"Ten, even 20 minutes, if you need it.I'll be here. Not smoking.Where is she?"
+p1915
+I898590
+I921880
+tp1916
+a(S"I'll be here. Not smoking.Where is she?I'm not scared of you."
+p1917
+I902327
+I923615
+tp1918
+a(S"Where is she?I'm not scared of you.She's not here. And please come in."
+p1919
+I921880
+I927352
+tp1920
+a(S"I'm not scared of you.She's not here. And please come in.Scotch on the rocks..."
+p1921
+I923615
+I931356
+tp1922
+a(S"She's not here. And please come in.Scotch on the rocks...with a twist, on a coaster."
+p1923
+I927352
+I932991
+tp1924
+a(S'Scotch on the rocks...with a twist, on a coaster.Monica?'
+p1925
+I931356
+I935660
+tp1926
+a(S'with a twist, on a coaster.Monica?Okay, she was here. But she left.'
+p1927
+I932991
+I938997
+tp1928
+a(S'Monica?Okay, she was here. But she left.Where did she go?'
+p1929
+I935660
+I941600
+tp1930
+a(S'Okay, she was here. But she left.Where did she go?She said she had to think things over.'
+p1931
+I938997
+I943201
+tp1932
+a(S"Where did she go?She said she had to think things over.Oh, my God. I can't believe this. I thought you were a good guy."
+p1933
+I941600
+I946037
+tp1934
+a(S"She said she had to think things over.Oh, my God. I can't believe this. I thought you were a good guy.Look, nothing happened."
+p1935
+I943201
+I950642
+tp1936
+a(S"Oh, my God. I can't believe this. I thought you were a good guy.Look, nothing happened.Nothing? So you didn't tell my girlfriend you love her?"
+p1937
+I946037
+I952611
+tp1938
+a(S"Look, nothing happened.Nothing? So you didn't tell my girlfriend you love her?Well, all right, one thing happened."
+p1939
+I950642
+I956948
+tp1940
+a(S"Nothing? So you didn't tell my girlfriend you love her?Well, all right, one thing happened.You know what you did? My girlfriend is thinking things over."
+p1941
+I952611
+I959951
+tp1942
+a(S'Well, all right, one thing happened.You know what you did? My girlfriend is thinking things over.You made my girlfriend think!'
+p1943
+I956948
+I964456
+tp1944
+a(S"You know what you did? My girlfriend is thinking things over.You made my girlfriend think!Well, I'm sorry."
+p1945
+I959951
+I968126
+tp1946
+a(S"You made my girlfriend think!Well, I'm sorry.-What's to think about? I love her."
+p1947
+I964456
+I971062
+tp1948
+a(S"Well, I'm sorry.-What's to think about? I love her.Well..."
+p1949
+I968126
+I971062
+tp1950
+a(S"-What's to think about? I love her.Well...I'm willing to offer her things that you aren't."
+p1951
+I971062
+I974099
+tp1952
+a(S"Well...I'm willing to offer her things that you aren't.I'm willing to offer her those things. I had a plan..."
+p1953
+I971062
+I977602
+tp1954
+a(S"I'm willing to offer her things that you aren't.I'm willing to offer her those things. I had a plan...to throw her off so when I offered all these things, she'd be surprised."
+p1955
+I974099
+I981306
+tp1956
+a(S"I'm willing to offer her those things. I had a plan...to throw her off so when I offered all these things, she'd be surprised.If it helps, it worked very well."
+p1957
+I977602
+I986945
+tp1958
+a(S"to throw her off so when I offered all these things, she'd be surprised.If it helps, it worked very well.It was working till you showed up, you big tree."
+p1959
+I981306
+I990849
+tp1960
+a(S"If it helps, it worked very well.It was working till you showed up, you big tree.This isn't fair."
+p1961
+I986945
+I996721
+tp1962
+a(S"It was working till you showed up, you big tree.This isn't fair.You had your chance with her, and you blew it!"
+p1963
+I990849
+I998857
+tp1964
+a(S"This isn't fair.You had your chance with her, and you blew it!This is my chance. I won't blow it, because we are meant for each other."
+p1965
+I996721
+I1002394
+tp1966
+a(S"You had your chance with her, and you blew it!This is my chance. I won't blow it, because we are meant for each other.And this has all just been one stupid mistake!"
+p1967
+I998857
+I1007532
+tp1968
+a(S"This is my chance. I won't blow it, because we are meant for each other.And this has all just been one stupid mistake!I was gonna propose tonight."
+p1969
+I1002394
+I1011403
+tp1970
+a(S'And this has all just been one stupid mistake!I was gonna propose tonight.-You were gonna propose?'
+p1971
+I1007532
+I1016641
+tp1972
+a(S'I was gonna propose tonight.-You were gonna propose?Yeah, I even...'
+p1973
+I1011403
+I1016641
+tp1974
+a(S'-You were gonna propose?Yeah, I even...got a ring. Did you get a ring?'
+p1975
+I1016641
+I1021346
+tp1976
+a(S"Yeah, I even...got a ring. Did you get a ring?No, I don't have a ring."
+p1977
+I1016641
+I1024816
+tp1978
+a(S"got a ring. Did you get a ring?No, I don't have a ring.You go get her, Chandler."
+p1979
+I1021346
+I1032190
+tp1980
+a(S"No, I don't have a ring.You go get her, Chandler.And can I give you a piece of advice?"
+p1981
+I1024816
+I1036828
+tp1982
+a(S'You go get her, Chandler.And can I give you a piece of advice?If you do get her...'
+p1983
+I1032190
+I1039597
+tp1984
+a(S"And can I give you a piece of advice?If you do get her...don't let her go."
+p1985
+I1036828
+I1042534
+tp1986
+a(S"If you do get her...don't let her go.Trust me."
+p1987
+I1039597
+I1044369
+tp1988
+a(S"don't let her go.Trust me.You know, Richard, you are a good guy."
+p1989
+I1042534
+I1048773
+tp1990
+a(S'Trust me.You know, Richard, you are a good guy.I know.'
+p1991
+I1044369
+I1054612
+tp1992
+a(S'You know, Richard, you are a good guy.I know.I hate that.'
+p1993
+I1048773
+I1057048
+tp1994
+a(S"I know.I hate that.-I've gotta find Monica."
+p1995
+I1054612
+I1073064
+tp1996
+a(S"I hate that.-I've gotta find Monica.She's gone."
+p1997
+I1057048
+I1073064
+tp1998
+a(S"-I've gotta find Monica.She's gone.-What?"
+p1999
+I1073064
+I1076034
+tp2000
+a(S"She's gone.-What?She had a bag and she left."
+p2001
+I1073064
+I1076034
+tp2002
+a(S'-What?She had a bag and she left.-What?'
+p2003
+I1076034
+I1079671
+tp2004
+a(S'She had a bag and she left.-What?She was all crying...'
+p2005
+I1076034
+I1079671
+tp2006
+a(S'-What?She was all crying...She said you guys want different things, and that and that she needed time to think."'
+p2007
+I1079671
+I1081840
+tp2008
+a(S'She was all crying...She said you guys want different things, and that and that she needed time to think."-Why didn\'t you just tell her it was a plan?'
+p2009
+I1079671
+I1085377
+tp2010
+a(S'She said you guys want different things, and that and that she needed time to think."-Why didn\'t you just tell her it was a plan?I told her everything.'
+p2011
+I1081840
+I1085377
+tp2012
+a(S"-Why didn't you just tell her it was a plan?I told her everything.-But she wouldn't believe me."
+p2013
+I1085377
+I1089814
+tp2014
+a(S"I told her everything.-But she wouldn't believe me.Well, where..? Where did she go?"
+p2015
+I1085377
+I1089814
+tp2016
+a(S"-But she wouldn't believe me.Well, where..? Where did she go?To her parents'. She said you shouldn't call. But if I were you, I would."
+p2017
+I1089814
+I1094285
+tp2018
+a(S"Well, where..? Where did she go?To her parents'. She said you shouldn't call. But if I were you, I would.-I can't believe I ruined this."
+p2019
+I1089814
+I1100191
+tp2020
+a(S"To her parents'. She said you shouldn't call. But if I were you, I would.-I can't believe I ruined this.I am so sorry, man."
+p2021
+I1094285
+I1100191
+tp2022
+a(S"-I can't believe I ruined this.I am so sorry, man.You wanted it to be a surprise."
+p2023
+I1100191
+I1115607
+tp2024
+a(S'I am so sorry, man.You wanted it to be a surprise.Oh, my God.'
+p2025
+I1100191
+I1128053
+tp2026
+a(S'You wanted it to be a surprise.Oh, my God.Chandler...'
+p2027
+I1115607
+I1136094
+tp2028
+a(S'Oh, my God.Chandler...in all my life...'
+p2029
+I1128053
+I1138930
+tp2030
+a(S'Chandler...in all my life...I never thought I would be so lucky...'
+p2031
+I1136094
+I1141633
+tp2032
+a(S'in all my life...I never thought I would be so lucky...as to fall in love with my best...'
+p2033
+I1138930
+I1147872
+tp2034
+a(S'I never thought I would be so lucky...as to fall in love with my best...My best...'
+p2035
+I1141633
+I1152877
+tp2036
+a(S"as to fall in love with my best...My best...There's a reason why girls don't do this!"
+p2037
+I1147872
+I1155547
+tp2038
+a(S"My best...There's a reason why girls don't do this!I'll do it. I thought..."
+p2039
+I1152877
+I1159417
+tp2040
+a(S"There's a reason why girls don't do this!I'll do it. I thought...Wait, I can do this."
+p2041
+I1155547
+I1166424
+tp2042
+a(S"I'll do it. I thought...Wait, I can do this.I thought that it mattered..."
+p2043
+I1159417
+I1171996
+tp2044
+a(S'Wait, I can do this.I thought that it mattered...what I said or where I said it.'
+p2045
+I1166424
+I1175233
+tp2046
+a(S'I thought that it mattered...what I said or where I said it.Then I realized...'
+p2047
+I1171996
+I1179537
+tp2048
+a(S'what I said or where I said it.Then I realized...the only thing that matters is that you...'
+p2049
+I1175233
+I1181906
+tp2050
+a(S'Then I realized...the only thing that matters is that you...You make me happier than I ever thought I could be.'
+p2051
+I1179537
+I1188713
+tp2052
+a(S'the only thing that matters is that you...You make me happier than I ever thought I could be.And if you let me...'
+p2053
+I1181906
+I1196221
+tp2054
+a(S"You make me happier than I ever thought I could be.And if you let me...I'll spend all my life trying to make you feel the same way."
+p2055
+I1188713
+I1198723
+tp2056
+a(S"And if you let me...I'll spend all my life trying to make you feel the same way.Monica..."
+p2057
+I1196221
+I1212003
+tp2058
+a(S"I'll spend all my life trying to make you feel the same way.Monica...will you marry me?"
+p2059
+I1198723
+I1215440
+tp2060
+a(S'Monica...will you marry me?Yes.'
+p2061
+I1212003
+I1219144
+tp2062
+a(S'will you marry me?Yes.I knew you were likely to take a wife!'
+p2063
+I1215440
+I1234626
+tp2064
+a(S"Yes.I knew you were likely to take a wife!Can we come in yet? We're dying out here!"
+p2065
+I1219144
+I1239864
+tp2066
+a(S"I knew you were likely to take a wife!Can we come in yet? We're dying out here!Come in! Come in!"
+p2067
+I1234626
+I1243635
+tp2068
+a(S"Can we come in yet? We're dying out here!Come in! Come in!We're engaged!"
+p2069
+I1239864
+I1247272
+tp2070
+a(S"Come in! Come in!We're engaged!This is the least jealous I've ever been."
+p2071
+I1243635
+I1255780
+tp2072
+a(S"We're engaged!This is the least jealous I've ever been.Oh, no, wait! This is wrong! Ross isn't here!"
+p2073
+I1247272
+I1259350
+tp2074
+a(S"This is the least jealous I've ever been.Oh, no, wait! This is wrong! Ross isn't here!Hell, he's done it three times. He knows what it's about!"
+p2075
+I1255780
+I1264589
+tp2076
+a.

@@ -1,0 +1,1991 @@
+(lp0
+(VWhat uh-What did you-What?!
+p1
+Vs06_e25_c01_u002
+p2
+VMonica
+p3
+Vs06_e25_c01
+p4
+tp5
+a(VI still love you. And I know I probably shouldn't even be here telling you this, I mean you're with Chandler a guy I really like, and if you say he's straight I'll believe you! After seeing ya the other night I knew if I didn't tell ya I'd regret it for the rest of my life. Letting you go was the stupidest thing I ever did.
+p6
+Vs06_e25_c01_u003
+p7
+VRichard
+p8
+g4
+tp9
+a(VY'know you're really not supposed to be back here!
+p10
+Vs06_e25_c01_u004
+p11
+VMonica
+p12
+g4
+tp13
+a(VWell yeah, I'm sorry. I know this is the wrong time and the wrong place but I had to tell ya! I wanna spend my life with you. I wanna marry you. I wanna have kids with you.
+p14
+Vs06_e25_c01_u005
+p15
+VRichard
+p16
+g4
+tp17
+a(VOh God...  Why don't they put chairs back here?!
+p18
+Vs06_e25_c01_u006
+p19
+VMonica
+p20
+g4
+tp21
+a(VI know this is crazy but am I too late?
+p22
+Vs06_e25_c01_u007
+p23
+VRichard
+p24
+g4
+tp25
+a(VWhat the... Yes you're too late! Where was all this three years ago?!
+p26
+Vs06_e25_c01_u008
+p27
+VMonica
+p28
+g4
+tp29
+a(VWell I know I was an idiot! And I tried to forget you, I really did! Y'know after we had lunch last year I spent six months in Africa trying to get you out of my head!
+p30
+Vs06_e25_c01_u009
+p31
+VRichard
+p32
+g4
+tp33
+a(VWhat were you doing in Africa?
+p34
+Vs06_e25_c01_u010
+p35
+VMonica
+p36
+g4
+tp37
+a(VWorking with blind kids.
+p38
+Vs06_e25_c01_u011
+p39
+VRichard
+p40
+g4
+tp41
+a(VOhhh! What are you doing to me?! Oh look, I-I... I'm sorry but umm, this-this-this-this is not going to happen.
+p42
+Vs06_e25_c01_u012
+p43
+VMonica
+p44
+g4
+tp45
+a(VOkay that's fine, I'll walk away. And I'll never bother you again, but only if you tell me Chandler's willing to give you everything I am.
+p46
+Vs06_e25_c01_u013
+p47
+VRichard
+p48
+g4
+tp49
+a(VWell he is! Yeah, I mean marriage is all he talks about! My goodness, in fact, I'm the one that's making him wait!
+p50
+Vs06_e25_c01_u014
+p51
+VMonica
+p52
+g4
+tp53
+a(VYou are?
+p54
+Vs06_e25_c01_u015
+p55
+VRichard
+p56
+g4
+tp57
+a(VYeah!
+p58
+Vs06_e25_c01_u016
+p59
+VMonica
+p60
+g4
+tp61
+a(VWhy?
+p62
+Vs06_e25_c01_u017
+p63
+VRichard
+p64
+g4
+tp65
+a(VWhy? Because of the government.
+p66
+Vs06_e25_c01_u018
+p67
+VMonica
+p68
+g4
+tp69
+a(VIsn't it incredible?! Monica and Chandler, gettin' married.
+p70
+Vs06_e25_c02_u002
+p71
+VRachel
+p72
+Vs06_e25_c02
+p73
+tp74
+a(VI know, they're gonna be so happy together.
+p75
+Vs06_e25_c02_u003
+p76
+VPhoebe
+p77
+g73
+tp78
+a(VOhh... I mean two best friends falling in love, how often does that happen?
+p79
+Vs06_e25_c02_u004
+p80
+VRachel
+p81
+g73
+tp82
+a(VNot that often!
+p83
+Vs06_e25_c02_u005
+p84
+VPhoebe
+p85
+g73
+tp86
+a(VNo! I'm so happy for them!
+p87
+Vs06_e25_c02_u006
+p88
+VRachel
+p89
+g73
+tp90
+a(VMe too! So happy for them!
+p91
+Vs06_e25_c02_u007
+p92
+VPhoebe
+p93
+g73
+tp94
+a(VI'm so happy and not at all jealous.
+p95
+Vs06_e25_c02_u008
+p96
+VRachel
+p97
+g73
+tp98
+a(VOh no! No God, definitely not jealous!
+p99
+Vs06_e25_c02_u009
+p100
+VPhoebe
+p101
+g73
+tp102
+a(VI mean I'm probably 98% happy, maybe 2% jealous. And I mean what's 2%? That's nothing.
+p103
+Vs06_e25_c02_u011
+p104
+VRachel
+p105
+g73
+tp106
+a(VTotally. I'm like 90/10.
+p107
+Vs06_e25_c02_u012
+p108
+VPhoebe
+p109
+g73
+tp110
+a(VYeah me too.
+p111
+Vs06_e25_c02_u013
+p112
+VRachel
+p113
+g73
+tp114
+a(VHey uh, have you guys scene Chandler?
+p115
+Vs06_e25_c02_u015
+p116
+VJoey
+p117
+g73
+tp118
+a(V Wh-no, but y'know who did stop in here looking for ya, Tennille.
+p119
+Vs06_e25_c02_u016
+p120
+VRachel
+p121
+g73
+tp122
+a(VSo that marriage stuff that you were saying yesterday, you don't really believe that do you?
+p123
+Vs06_e25_c03_u002
+p124
+VMonica
+p125
+Vs06_e25_c03
+p126
+tp127
+a(VSure I do. In fact, I think the whole concept of marriage is unnatural. I mean look at pigs. Let's take a second here and look at pigs. Okay pigs don't mate for life. I mean a pig can have like a hundred sexual partners in a lifetime, and that's just an ordinary pig not even a pig that's good at sports!
+p128
+Vs06_e25_c03_u003
+p129
+VChandler
+p130
+g126
+tp131
+a(VYeah, but that's pigs not people!
+p132
+Vs06_e25_c03_u004
+p133
+VMonica
+p134
+g126
+tp135
+a(VIf marriage worked, I'd be all for it. But do you know what the divorce rate in this country is? 97%.
+p136
+Vs06_e25_c03_u005
+p137
+VChandler
+p138
+g126
+tp139
+a(VWait a minute. Are you honestly telling me that-that you may never want to get married?
+p140
+Vs06_e25_c03_u006
+p141
+VMonica
+p142
+g126
+tp143
+a(VWell, never say never but y'know probably uh yeah, never.
+p144
+Vs06_e25_c03_u007
+p145
+VChandler
+p146
+g126
+tp147
+a(VOh my God! Then-then-then what are we even doing?! What is this?!
+p148
+Vs06_e25_c03_u008
+p149
+VMonica
+p150
+g126
+tp151
+a(VWhoa! Whoa! Whoa! What is all this pressure?! Is this some new kind of strategy? Why don't you put down your copy of 'The Rules' huh mantrap?!
+p152
+Vs06_e25_c03_u009
+p153
+VChandler
+p154
+g126
+tp155
+a(VY'know what?! I gotta go! Ugh!
+p156
+Vs06_e25_c03_u010
+p157
+VMonica
+p158
+g126
+tp159
+a(V It's okay, I got a plan.
+p160
+Vs06_e25_c03_u012
+p161
+VChandler
+p162
+g126
+tp163
+a(VWe're gonna find love!
+p164
+Vs06_e25_c04_u002
+p165
+VRachel
+p166
+Vs06_e25_c04
+p167
+tp168
+a(VDefinitely!
+p169
+Vs06_e25_c04_u003
+p170
+VPhoebe
+p171
+g167
+tp172
+a(VYeah, I'm pretty confident about that. That's what makes it so easy for me to be 80% happy for Monica and Chandler! It would be nice to have a little guarantee though.
+p173
+Vs06_e25_c04_u004
+p174
+VRachel
+p175
+g167
+tp176
+a(VWhat do you mean?
+p177
+Vs06_e25_c04_u005
+p178
+VPhoebe
+p179
+g167
+tp180
+a(VWell y'know, some people make deals with a friend, like if neither of them are married by the time they're 40, they marry each other.
+p181
+Vs06_e25_c04_u006
+p182
+VRachel
+p183
+g167
+tp184
+a(VYou mean a backup?
+p185
+Vs06_e25_c04_u007
+p186
+VPhoebe
+p187
+g167
+tp188
+a(VExactly!
+p189
+Vs06_e25_c04_u008
+p190
+VRachel
+p191
+g167
+tp192
+a(VYeah, yeah I got that.
+p193
+Vs06_e25_c04_u009
+p194
+VPhoebe
+p195
+g167
+tp196
+a(VYou do?
+p197
+Vs06_e25_c04_u010
+p198
+VRachel
+p199
+g167
+tp200
+a(VHm-mmm.
+p201
+Vs06_e25_c04_u011
+p202
+VPhoebe
+p203
+g167
+tp204
+a(VWho?
+p205
+Vs06_e25_c04_u012
+p206
+VRachel
+p207
+g167
+tp208
+a(VJoey.
+p209
+Vs06_e25_c04_u013
+p210
+VPhoebe
+p211
+g167
+tp212
+a(VJoey?!
+p213
+Vs06_e25_c04_u014
+p214
+VRachel
+p215
+g167
+tp216
+a(VYeah!
+p217
+Vs06_e25_c04_u015
+p218
+VPhoebe
+p219
+g167
+tp220
+a(VAre you serious?!
+p221
+Vs06_e25_c04_u016
+p222
+VRachel
+p223
+g167
+tp224
+a(VYeah, I locked him years ago!
+p225
+Vs06_e25_c04_u017
+p226
+VPhoebe
+p227
+g167
+tp228
+a(VWh... So... If neither of you are married by the time you're 40, you're gonna marry Joey.
+p229
+Vs06_e25_c04_u018
+p230
+VRachel
+p231
+g167
+tp232
+a(VYep, we shook on it. Yeah but believe me that is not how he wanted to seal the deal.
+p233
+Vs06_e25_c04_u019
+p234
+VPhoebe
+p235
+g167
+tp236
+a(VOh, seriously?
+p237
+Vs06_e25_c04_u020
+p238
+VRachel
+p239
+g167
+tp240
+a(VOhh, yeah. I think his exact words were... 
+p241
+Vs06_e25_c04_u021
+p242
+VPhoebe
+p243
+g167
+tp244
+a(VCharming.
+p245
+Vs06_e25_c04_u022
+p246
+VRachel
+p247
+g167
+tp248
+a(VWell hey, it's just a backup.
+p249
+Vs06_e25_c04_u023
+p250
+VPhoebe
+p251
+g167
+tp252
+a(VYeah.
+p253
+Vs06_e25_c04_u024
+p254
+VRachel
+p255
+g167
+tp256
+a(VHey Monica!
+p257
+Vs06_e25_c05_u002
+p258
+VJoey
+p259
+Vs06_e25_c05
+p260
+tp261
+a(VHave you seen Rachel? Or a mirror?
+p262
+Vs06_e25_c05_u003
+p263
+VMonica
+p264
+g260
+tp265
+a(VThis is for my boat, pretty cool huh?
+p266
+Vs06_e25_c05_u004
+p267
+VJoey
+p268
+g260
+tp269
+a(VYeah, it's great.
+p270
+Vs06_e25_c05_u005
+p271
+VMonica
+p272
+g260
+tp273
+a(VWhoa-whoa, what's the matter?! Talk to the captain!
+p274
+Vs06_e25_c05_u006
+p275
+VJoey
+p276
+g260
+tp277
+a(VI'm just having one of those days where you realize you're in a dead-end relationship!
+p278
+Vs06_e25_c05_u007
+p279
+VMonica
+p280
+g260
+tp281
+a(VChandler giving you a hard time huh?
+p282
+Vs06_e25_c05_u008
+p283
+VJoey
+p284
+g260
+tp285
+a(VIt's not like I want to get married tomorrow! It's just that I-I'd like to believe that I'm in a relationship that's actually going somewhere, that I'm not just wasting my time!
+p286
+Vs06_e25_c05_u009
+p287
+VMonica
+p288
+g260
+tp289
+a(VWell, you know Chandler.
+p290
+Vs06_e25_c05_u010
+p291
+VJoey
+p292
+g260
+tp293
+a(VNo I don't know Chandler! Not anymore! It's like it's like something's changed.
+p294
+Vs06_e25_c05_u011
+p295
+VMonica
+p296
+g260
+tp297
+a(VMaybe you changed?
+p298
+Vs06_e25_c05_u012
+p299
+VJoey
+p300
+g260
+tp301
+a(VI didn't change!
+p302
+Vs06_e25_c05_u013
+p303
+VMonica
+p304
+g260
+tp305
+a(VMaybe that's the problem.
+p306
+Vs06_e25_c05_u014
+p307
+VJoey
+p308
+g260
+tp309
+a(VWhat?!
+p310
+Vs06_e25_c05_u015
+p311
+VMonica
+p312
+g260
+tp313
+a(VChandler is a complex fellow, one who is unlikely to take a wife.
+p314
+Vs06_e25_c05_u016
+p315
+VJoey
+p316
+g260
+tp317
+a(VIs that some kind of boat talk?
+p318
+Vs06_e25_c05_u017
+p319
+VMonica
+p320
+g260
+tp321
+a(VI don't know!  I haven't totally decided how to talk on my boat yet.
+p322
+Vs06_e25_c05_u018
+p323
+VJoey
+p324
+g260
+tp325
+a(VWhat does he think? Does he think I'm just gonna wait around for nothing?
+p326
+Vs06_e25_c05_u019
+p327
+VMonica
+p328
+g260
+tp329
+a(VMonica face it, Chandler is against marriage. And-and always will be!
+p330
+Vs06_e25_c05_u020
+p331
+VJoey
+p332
+g260
+tp333
+a(V Well there's some people who do want to marry me.
+p334
+Vs06_e25_c05_u021
+p335
+VMonica
+p336
+g260
+tp337
+a(VThere are?
+p338
+Vs06_e25_c05_u022
+p339
+VJoey
+p340
+g260
+tp341
+a(VYeah! Richard!
+p342
+Vs06_e25_c05_u023
+p343
+VMonica
+p344
+g260
+tp345
+a(VR-R-Richard said he wants to marry you?!  And-and Chandler's tellin' ya how much he hates marriage?!
+p346
+Vs06_e25_c05_u024
+p347
+VJoey
+p348
+g260
+tp349
+a(VThat's right.
+p350
+Vs06_e25_c05_u025
+p351
+VMonica
+p352
+g260
+tp353
+a(VChandler loves marriage!!
+p354
+Vs06_e25_c05_u026
+p355
+VJoey
+p356
+g260
+tp357
+a(VYou just told me that he hates marriage! That-that he's a-a complex fellow who's unlikely to take a wife! That-that he's against marriage and always will be!
+p358
+Vs06_e25_c05_u027
+p359
+VMonica
+p360
+g260
+tp361
+a(VYou got that from what I said?!
+p362
+Vs06_e25_c05_u028
+p363
+VJoey
+p364
+g260
+tp365
+a(VWhen the Cretaceous period ended, the dinosaurs were gone.
+p366
+Vs06_e25_c06_u002
+p367
+VNarrator
+p368
+Vs06_e25_c06
+p369
+tp370
+a(VWhat happened you guys?
+p371
+Vs06_e25_c06_u003
+p372
+VRoss
+p373
+g369
+tp374
+a(VRach!
+p375
+Vs06_e25_c06_u005
+p376
+VRoss
+p377
+g369
+tp378
+a(VHey you!
+p379
+Vs06_e25_c06_u006
+p380
+VRachel
+p381
+g369
+tp382
+a(VHey, come on in.
+p383
+Vs06_e25_c06_u007
+p384
+VRoss
+p385
+g369
+tp386
+a(VOh thank you. Hey y'know, I'm so sorry to hear about you and Elizabeth.
+p387
+Vs06_e25_c06_u008
+p388
+VRachel
+p389
+g369
+tp390
+a(VOh, thanks. Yeah, I really thought we'd be able to make it work, but uh, I guess it just wasn't meant to be.
+p391
+Vs06_e25_c06_u009
+p392
+VRoss
+p393
+g369
+tp394
+a(VYeah, love. It's a tricky business isn't it?
+p395
+Vs06_e25_c06_u010
+p396
+VRachel
+p397
+g369
+tp398
+a(VI guess so.
+p399
+Vs06_e25_c06_u011
+p400
+VRoss
+p401
+g369
+tp402
+a(VSo what do you say we make a pact? If you and I are both single by the time we're 40, we get married. I mean, we know each other, we like each other, and we've-we've already slept together so y'know there'll be no surprises there! You know what I mean? No like, "What's that?!"
+p403
+Vs06_e25_c06_u012
+p404
+VRachel
+p405
+g369
+tp406
+a(VRight. Ohh! You-you want me to be your backup.
+p407
+Vs06_e25_c06_u013
+p408
+VRoss
+p409
+g369
+tp410
+a(VExactly.
+p411
+Vs06_e25_c06_u014
+p412
+VRachel
+p413
+g369
+tp414
+a(VOhh, yeah I already have one.
+p415
+Vs06_e25_c06_u015
+p416
+VRoss
+p417
+g369
+tp418
+a(VWhat? Who?
+p419
+Vs06_e25_c06_u016
+p420
+VRachel
+p421
+g369
+tp422
+a(VPhoebe.
+p423
+Vs06_e25_c06_u017
+p424
+VRoss
+p425
+g369
+tp426
+a(VPhoebe?! Wait a-but-but she just, she said that Joey was her backup.
+p427
+Vs06_e25_c06_u018
+p428
+VRachel
+p429
+g369
+tp430
+a(VOhh, I don't think so.
+p431
+Vs06_e25_c06_u019
+p432
+VRoss
+p433
+g369
+tp434
+a(VRoss! I just had a conversation with her, and she said that she and Joey made a deal!
+p435
+Vs06_e25_c06_u020
+p436
+VRachel
+p437
+g369
+tp438
+a(VThat's impossible! I mean we have had a deal for years! We-we-we shook on it, although believe me she wanted to do a lot more than that.
+p439
+Vs06_e25_c06_u021
+p440
+VRoss
+p441
+g369
+tp442
+a(VWhere the hell have you been?!
+p443
+Vs06_e25_c07_u002
+p444
+VJoey
+p445
+Vs06_e25_c07
+p446
+tp447
+a(VI was making a coconut phone with the professor.
+p448
+Vs06_e25_c07_u003
+p449
+VChandler
+p450
+g446
+tp451
+a(VRichard told Monica he wants to marry her!
+p452
+Vs06_e25_c07_u004
+p453
+VJoey
+p454
+g446
+tp455
+a(VWhat?!
+p456
+Vs06_e25_c07_u005
+p457
+VChandler
+p458
+g446
+tp459
+a(VYeah! Yeah, I've been trying to find ya to tell to stop messing with her and maybe I would have if these  damn boat shoes wouldn't keep flying off!
+p460
+Vs06_e25_c07_u006
+p461
+VJoey
+p462
+g446
+tp463
+a(VMy-Oh my God!
+p464
+Vs06_e25_c07_u007
+p465
+VChandler
+p466
+g446
+tp467
+a(VI know! They suck!!
+p468
+Vs06_e25_c07_u008
+p469
+VJoey
+p470
+g446
+tp471
+a(VHe's not supposed to ask my girlfriend to marry him! I'm supposed to do that!
+p472
+Vs06_e25_c07_u009
+p473
+VChandler
+p474
+g446
+tp475
+a(VI know!
+p476
+Vs06_e25_c07_u010
+p477
+VJoey
+p478
+g446
+tp479
+a(VWell what... Y'know what I'm gonna do? I'm gonna go over there; I'm gonna kick his ass!  Will you help me?!
+p480
+Vs06_e25_c07_u011
+p481
+VChandler
+p482
+g446
+tp483
+a(VLook, Chandler I don't think us getting our asses kicked is a solution. Okay? Just go and find Monica!
+p484
+Vs06_e25_c07_u012
+p485
+VJoey
+p486
+g446
+tp487
+a(VYou're right.
+p488
+Vs06_e25_c07_u013
+p489
+VChandler
+p490
+g446
+tp491
+a(VYeah!
+p492
+Vs06_e25_c07_u014
+p493
+VJoey
+p494
+g446
+tp495
+a(VOkay.  I'm gonna get the ring! I'm gonna get the ring!  I'm gonna go find her and  I'm just going to propose!
+p496
+Vs06_e25_c07_u015
+p497
+VChandler
+p498
+g446
+tp499
+a(VOkay.
+p500
+Vs06_e25_c07_u016
+p501
+VJoey
+p502
+g446
+tp503
+a(VOkay great.
+p504
+Vs06_e25_c07_u017
+p505
+VChandler
+p506
+g446
+tp507
+a(VDude-dude-dude!
+p508
+Vs06_e25_c07_u018
+p509
+VJoey
+p510
+g446
+tp511
+a(VWhat?!
+p512
+Vs06_e25_c07_u019
+p513
+VChandler
+p514
+g446
+tp515
+a(VLet me know about that coconut phone, it might great for the boat.
+p516
+Vs06_e25_c07_u020
+p517
+VJoey
+p518
+g446
+tp519
+a(VHi.
+p520
+Vs06_e25_c08_u002
+p521
+VMonica
+p522
+Vs06_e25_c08
+p523
+tp524
+a(VHi.
+p525
+Vs06_e25_c08_u003
+p526
+VRichard
+p527
+g523
+tp528
+a(VI don't know why I'm here.
+p529
+Vs06_e25_c08_u004
+p530
+VMonica
+p531
+g523
+tp532
+a(VI didn't ask. You wanna come in?
+p533
+Vs06_e25_c08_u005
+p534
+VRichard
+p535
+g523
+tp536
+a(VI don't know.
+p537
+Vs06_e25_c08_u006
+p538
+VMonica
+p539
+g523
+tp540
+a(VOh, okay. Well, I'll just leave the door open and go sit on the couch. 
+p541
+Vs06_e25_c08_u007
+p542
+VRichard
+p543
+g523
+tp544
+a(V Chandler is such an idiot!
+p545
+Vs06_e25_c08_u008
+p546
+VMonica
+p547
+g523
+tp548
+a(V Drink?
+p549
+Vs06_e25_c08_u009
+p550
+VRichard
+p551
+g523
+tp552
+a(VYeah, I'll have a scotch...
+p553
+Vs06_e25_c08_u010
+p554
+VMonica
+p555
+g523
+tp556
+a(V...on the rocks with a twist? I remember. 
+p557
+Vs06_e25_c08_u011
+p558
+VRichard
+p559
+g523
+tp560
+a(V Still smoking cigars?
+p561
+Vs06_e25_c08_u012
+p562
+VMonica
+p563
+g523
+tp564
+a(VUh, no! No! That's...art! If it bothers you I can put my art out.
+p565
+Vs06_e25_c08_u013
+p566
+VRichard
+p567
+g523
+tp568
+a(VNo that's, that's okay.
+p569
+Vs06_e25_c08_u014
+p570
+VMonica
+p571
+g523
+tp572
+a(VSo Monica let me ask you a question. Y'know, since we broke up do you ever, think about me?
+p573
+Vs06_e25_c08_u015
+p574
+VRichard
+p575
+g523
+tp576
+a(VUh yeah, I-I actually I thought about you a couple months ago.
+p577
+Vs06_e25_c08_u016
+p578
+VMonica
+p579
+g523
+tp580
+a(VOh really?
+p581
+Vs06_e25_c08_u017
+p582
+VRichard
+p583
+g523
+tp584
+a(VYeah but it was because I-I had an eye exam and I don't like my new eye doctor.
+p585
+Vs06_e25_c08_u018
+p586
+VMonica
+p587
+g523
+tp588
+a(VWho is it?
+p589
+Vs06_e25_c08_u019
+p590
+VRichard
+p591
+g523
+tp592
+a(VEdward Nevski?
+p593
+Vs06_e25_c08_u020
+p594
+VMonica
+p595
+g523
+tp596
+a(VYeah he's no good. Do you ever  think about me in a  non-eye doctor way?
+p597
+Vs06_e25_c08_u021
+p598
+VRichard
+p599
+g523
+tp600
+a(VNo.
+p601
+Vs06_e25_c08_u022
+p602
+VMonica
+p603
+g523
+tp604
+a(VAhh.
+p605
+Vs06_e25_c08_u023
+p606
+VRichard
+p607
+g523
+tp608
+a(VBut getting over was the hardest thing that I've ever had to do. And I never let myself think about you.
+p609
+Vs06_e25_c08_u024
+p610
+VMonica
+p611
+g523
+tp612
+a(VPhoebe! You picked Joey and Ross?! You can not have two backups!
+p613
+Vs06_e25_c09_u002
+p614
+VRachel
+p615
+Vs06_e25_c09
+p616
+tp617
+a(VOf course I can! It's just good sense to backup your backup! Look, I've already lost Chandler!
+p618
+Vs06_e25_c09_u003
+p619
+VPhoebe
+p620
+g616
+tp621
+a(VWhat?!
+p622
+Vs06_e25_c09_u004
+p623
+VRachel
+p624
+g616
+tp625
+a(V Hey!
+p626
+Vs06_e25_c09_u005
+p627
+VJoey
+p628
+g616
+tp629
+a(V Hey!
+p630
+Vs06_e25_c09_u006
+p631
+VRoss
+p632
+g616
+tp633
+a(VPhoebe! We're both  your backup?!
+p634
+Vs06_e25_c09_u007
+p635
+VJoey
+p636
+g616
+tp637
+a(VPhoebe, how could you do this to me?!
+p638
+Vs06_e25_c09_u008
+p639
+VRoss
+p640
+g616
+tp641
+a(VI don't-Look I don't know what you're complaining about now? You were both aware of the situation!
+p642
+Vs06_e25_c09_u009
+p643
+VPhoebe
+p644
+g616
+tp645
+a(VNo we weren't!
+p646
+Vs06_e25_c09_u011
+p647
+VJoey
+p648
+g616
+tp649
+a(VI was not!
+p650
+Vs06_e25_c09_u012
+p651
+VRoss
+p652
+g616
+tp653
+a(VOkay, this kind of back talk is not gonna fly when we're married!
+p654
+Vs06_e25_c09_u013
+p655
+VPhoebe
+p656
+g616
+tp657
+a(VPhoebe you can't have both of them! You have to pick one!
+p658
+Vs06_e25_c09_u014
+p659
+VRachel
+p660
+g616
+tp661
+a(VPick me!!
+p662
+Vs06_e25_c09_u015
+p663
+VJoey
+p664
+g616
+tp665
+a(VNo! Pick me! I don't want to end up an old maid!
+p666
+Vs06_e25_c09_u016
+p667
+VRoss
+p668
+g616
+tp669
+a(VAll right well let's see, Ross is a good father, but Joey has a boat-This is hard!
+p670
+Vs06_e25_c09_u017
+p671
+VPhoebe
+p672
+g616
+tp673
+a(VThis is crazy! Hey look, I wanna switch to Rachel!
+p674
+Vs06_e25_c09_u018
+p675
+VJoey
+p676
+g616
+tp677
+a(VOoh, I wanna switch to Rachel too!
+p678
+Vs06_e25_c09_u019
+p679
+VRoss
+p680
+g616
+tp681
+a(VNo wait! Just-Okay-Just wait! You guys! Wait you guys! Don't make any rash decisions, okay? Just remember my promise, when we get married, three times a week.
+p682
+Vs06_e25_c09_u021
+p683
+VPhoebe
+p684
+g616
+tp685
+a(VOh God, Phoebe!
+p686
+Vs06_e25_c09_u022
+p687
+VRachel
+p688
+g616
+tp689
+a(V I'm talking about massages.
+p690
+Vs06_e25_c09_u023
+p691
+VPhoebe
+p692
+g616
+tp693
+a(VOh.
+p694
+Vs06_e25_c09_u024
+p695
+VRachel
+p696
+g616
+tp697
+a(VOkay, y'know what?! I know-I know how to settle this! All right here, this is what we're gonna do! I'm gonna write Joey on one napkin  and I'm gonna right Ross on the other napkin  and we are going to pick one! And that person is going to be our backup! Okay?
+p698
+Vs06_e25_c09_u026
+p699
+VRachel
+p700
+g616
+tp701
+a(VOkay that's fair.
+p702
+Vs06_e25_c09_u027
+p703
+VJoey
+p704
+g616
+tp705
+a(VAll right.
+p706
+Vs06_e25_c09_u028
+p707
+VRoss
+p708
+g616
+tp709
+a(VGood!
+p710
+Vs06_e25_c09_u029
+p711
+VPhoebe
+p712
+g616
+tp713
+a(VPick one.
+p714
+Vs06_e25_c09_u031
+p715
+VRachel
+p716
+g616
+tp717
+a(VLeft!  Thank you.
+p718
+Vs06_e25_c09_u032
+p719
+VPhoebe
+p720
+g616
+tp721
+a(VYou're welcome.
+p722
+Vs06_e25_c09_u033
+p723
+VRachel
+p724
+g616
+tp725
+a(V Ross!
+p726
+Vs06_e25_c09_u034
+p727
+VPhoebe
+p728
+g616
+tp729
+a(V Joey!  We should just switch.
+p730
+Vs06_e25_c09_u035
+p731
+VRachel
+p732
+g616
+tp733
+a(VYeah absolutely! 
+p734
+Vs06_e25_c09_u036
+p735
+VPhoebe
+p736
+g616
+tp737
+a(VYeah.
+p738
+Vs06_e25_c09_u037
+p739
+VJoey
+p740
+g616
+tp741
+a(V I missed you-you ugly, flat faced old freak!
+p742
+Vs06_e25_c10_u002
+p743
+VMonica
+p744
+Vs06_e25_c10
+p745
+tp746
+a(VExcuse me?
+p747
+Vs06_e25_c10_u003
+p748
+VRichard
+p749
+g745
+tp750
+a(VOh!  Him.
+p751
+Vs06_e25_c10_u004
+p752
+VMonica
+p753
+g745
+tp754
+a(VOh.  Whew!
+p755
+Vs06_e25_c10_u005
+p756
+VRichard
+p757
+g745
+tp758
+a(VI missed this apartment! Now, this is a grown-up's apartment! Y'know, I-I should be with a grown-up, do you know what I mean?!
+p759
+Vs06_e25_c10_u006
+p760
+VMonica
+p761
+g745
+tp762
+a(VYeah! You're saying, you need to be with someone more mature. Maybe someone with, a license to practice medicine. Or a mustache.
+p763
+Vs06_e25_c10_u007
+p764
+VRichard
+p765
+g745
+tp766
+a(VY'know, let's face it, I'm not a kid anymore! I-I need to be with someone who-who wants the same things that I do! I mean coming to my place of work and telling me that you love me, I want that! Talking about pig sex over lunch, I don't want that!
+p767
+Vs06_e25_c10_u008
+p768
+VMonica
+p769
+g745
+tp770
+a(VI think that's fair.
+p771
+Vs06_e25_c10_u009
+p772
+VRichard
+p773
+g745
+tp774
+a(VFair? Please don't even talk to me about fair! Fair would've been you wanting to marry me back then! Or fair would've been Chandler wanting to marry me now! Believe me, nothing about this is fair! Nothing! Nothing! Nothing! Nothing! Nothing! Nothing! Nothing! Nothing! Nothing! Nothing!
+p775
+Vs06_e25_c10_u010
+p776
+VMonica
+p777
+g745
+tp778
+a(VIt's okay! Shh! Hey. Hey.  Shhhh.
+p779
+Vs06_e25_c10_u011
+p780
+VRichard
+p781
+g745
+tp782
+a(VNothing.  I don't kn-Umm. I don't know. Umm...
+p783
+Vs06_e25_c10_u012
+p784
+VMonica
+p785
+g745
+tp786
+a(VI know. 
+p787
+Vs06_e25_c10_u013
+p788
+VRichard
+p789
+g745
+tp790
+a(VY'know, I-I... I have to figure...some st-Y'know, some stuff before I can...
+p791
+Vs06_e25_c10_u014
+p792
+VMonica
+p793
+g745
+tp794
+a(VYeah, I understand. Take as much time as you want.  Ten, even twenty minutes if you need it. I'll be here. Not smoking. 
+p795
+Vs06_e25_c10_u015
+p796
+VRichard
+p797
+g745
+tp798
+a(VChandler.
+p799
+Vs06_e25_c11_u002
+p800
+VRichard
+p801
+Vs06_e25_c11
+p802
+tp803
+a(VWhere is she? I'm not scared of you! 
+p804
+Vs06_e25_c11_u003
+p805
+VChandler
+p806
+g802
+tp807
+a(VShe's not here and please come in.
+p808
+Vs06_e25_c11_u004
+p809
+VRichard
+p810
+g802
+tp811
+a(V Scotch on the rocks, with a twist, on a coaster? Ha-ha, Monica! Monica!
+p812
+Vs06_e25_c11_u005
+p813
+VChandler
+p814
+g802
+tp815
+a(VOkay, she was here, but she left.
+p816
+Vs06_e25_c11_u006
+p817
+VRichard
+p818
+g802
+tp819
+a(VWell where did she go?
+p820
+Vs06_e25_c11_u007
+p821
+VChandler
+p822
+g802
+tp823
+a(VWell she said she had to think things over.
+p824
+Vs06_e25_c11_u008
+p825
+VRichard
+p826
+g802
+tp827
+a(VOh my God, I can't believe this! Y'know, I thought...I thought you were a good guy.
+p828
+Vs06_e25_c11_u009
+p829
+VChandler
+p830
+g802
+tp831
+a(VOh, hey look nothing happened.
+p832
+Vs06_e25_c11_u010
+p833
+VRichard
+p834
+g802
+tp835
+a(VNothing happened? Nothing? So you didn't tell my girlfriend that you love her?
+p836
+Vs06_e25_c11_u011
+p837
+VChandler
+p838
+g802
+tp839
+a(VWell all right, one thing happened?
+p840
+Vs06_e25_c11_u012
+p841
+VRichard
+p842
+g802
+tp843
+a(VY'know what? I can't believe this! Do you know what you did? My girlfriend is out there thinking things over! You made my girlfriend think!!
+p844
+Vs06_e25_c11_u013
+p845
+VChandler
+p846
+g802
+tp847
+a(VWell I'm sorry.
+p848
+Vs06_e25_c11_u014
+p849
+VRichard
+p850
+g802
+tp851
+a(VAnd what does she have to think about? I love her!
+p852
+Vs06_e25_c11_u015
+p853
+VChandler
+p854
+g802
+tp855
+a(VWell, apparently I'm willing to offer her things that you are not.
+p856
+Vs06_e25_c11_u016
+p857
+VRichard
+p858
+g802
+tp859
+a(VBut I am willing to offer her all those things. This was just a plan, y'know? A way to throw her off course so that when I offered her all these things, she'd be surprised!
+p860
+Vs06_e25_c11_u017
+p861
+VChandler
+p862
+g802
+tp863
+a(VWell if it helps, it worked very well.
+p864
+Vs06_e25_c11_u018
+p865
+VRichard
+p866
+g802
+tp867
+a(VIt was working until you showed up, you big tree! I mean, this isn't fair. You had your chance with her! You had your chance and you blew it! And this is my chance and I am not going to blow it because we are meant for each other! And this is all just been one stupid mistake!  I was gonna propose tonight.
+p868
+Vs06_e25_c11_u019
+p869
+VChandler
+p870
+g802
+tp871
+a(VYou were gonna propose? 
+p872
+Vs06_e25_c11_u020
+p873
+VRichard
+p874
+g802
+tp875
+a(VYeah I even  got a ring.  Did you get a ring?
+p876
+Vs06_e25_c11_u021
+p877
+VChandler
+p878
+g802
+tp879
+a(VNo I don't have a ring!  You go get her Chandler.  And can I give you a piece of advice? If you do get her, don't let her go. Trust me.
+p880
+Vs06_e25_c11_u022
+p881
+VRichard
+p882
+g802
+tp883
+a(VY'know Richard...you are a good guy.
+p884
+Vs06_e25_c11_u023
+p885
+VChandler
+p886
+g802
+tp887
+a(VI know.  I hate that!
+p888
+Vs06_e25_c11_u024
+p889
+VRichard
+p890
+g802
+tp891
+a(VDude!
+p892
+Vs06_e25_c12_u002
+p893
+VJoey
+p894
+Vs06_e25_c12
+p895
+tp896
+a(VI can't talk to you now, I gotta find Monica!
+p897
+Vs06_e25_c12_u003
+p898
+VChandler
+p899
+g895
+tp900
+a(VShe's gone.
+p901
+Vs06_e25_c12_u004
+p902
+VJoey
+p903
+g895
+tp904
+a(VWhat?
+p905
+Vs06_e25_c12_u005
+p906
+VChandler
+p907
+g895
+tp908
+a(VShe's gone. She had a bag and she left.
+p909
+Vs06_e25_c12_u006
+p910
+VJoey
+p911
+g895
+tp912
+a(VWhat are you talking about?
+p913
+Vs06_e25_c12_u007
+p914
+VChandler
+p915
+g895
+tp916
+a(VShe was all crying. She-she said you guys want different things, and that and that she needed time to think.
+p917
+Vs06_e25_c12_u008
+p918
+VJoey
+p919
+g895
+tp920
+a(VWell why didn't you stop her?! Why didn't you just tell her it was a plan?!
+p921
+Vs06_e25_c12_u009
+p922
+VChandler
+p923
+g895
+tp924
+a(VI-I did! I told her everything, Chandler! But she wouldn't believe me.
+p925
+Vs06_e25_c12_u010
+p926
+VJoey
+p927
+g895
+tp928
+a(VWell where... Where did she go?
+p929
+Vs06_e25_c12_u011
+p930
+VChandler
+p931
+g895
+tp932
+a(VTo her parent's I think and she said you shouldn't call her. But if I were you I would.
+p933
+Vs06_e25_c12_u012
+p934
+VJoey
+p935
+g895
+tp936
+a(VI can't believe I ruined this.
+p937
+Vs06_e25_c12_u013
+p938
+VChandler
+p939
+g895
+tp940
+a(VI am so sorry man.
+p941
+Vs06_e25_c12_u014
+p942
+VJoey
+p943
+g895
+tp944
+a(VYou wanted it to be a surprise.
+p945
+Vs06_e25_c12_u016
+p946
+VMonica
+p947
+g895
+tp948
+a(VOh my God.
+p949
+Vs06_e25_c12_u018
+p950
+VChandler
+p951
+g895
+tp952
+a(VChandler... In all my life... I never thought I would be so lucky.  As to...fall in love with my best...my best... There's a reason why girls don't do this!
+p953
+Vs06_e25_c12_u020
+p954
+VMonica
+p955
+g895
+tp956
+a(VOkay!  Okay! Okay! Oh God, I thought...  Wait a minute, I-I can do this.  I thought that it mattered what I said or where I said it. Then I realized the only thing that matters is that you,  you make me happier than I ever thought I could be.  And if you'll let me, I will spend the rest of my life trying to make you feel the same way.  Monica, will you marry me?
+p957
+Vs06_e25_c12_u021
+p958
+VChandler
+p959
+g895
+tp960
+a(VYes.
+p961
+Vs06_e25_c12_u022
+p962
+VMonica
+p963
+g895
+tp964
+a(VI knew you were likely to take a wife!
+p965
+Vs06_e25_c12_u024
+p966
+VMonica
+p967
+g895
+tp968
+a(V Can we come it yet?! We're dying out here!
+p969
+Vs06_e25_c12_u026
+p970
+VJoey
+p971
+g895
+tp972
+a(VCome in! Come in!  We're engaged!!!
+p973
+Vs06_e25_c12_u027
+p974
+VMonica
+p975
+g895
+tp976
+a(VOhhh, this is the least jealous I've ever been!
+p977
+Vs06_e25_c12_u029
+p978
+VRachel
+p979
+g895
+tp980
+a(VOh no wait no, this is wrong! Ross isn't here!
+p981
+Vs06_e25_c12_u030
+p982
+VPhoebe
+p983
+g895
+tp984
+a(VOh...
+p985
+Vs06_e25_c12_u031
+p986
+VMonica
+p987
+g895
+tp988
+a(VOh hell, he's done this three times! He knows what its about!
+p989
+Vs06_e25_c12_u032
+p990
+VRachel
+p991
+g895
+tp992
+a(VYeah!
+p993
+Vs06_e25_c12_u033
+p994
+VJoey
+p995
+g895
+tp996
+a(VEnd
+p997
+Vs06_e25_c13_u002
+p998
+V_
+p999
+Vs06_e25_c13
+p1000
+tp1001
+a.
